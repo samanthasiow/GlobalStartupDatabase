@@ -6,7 +6,7 @@ def main():
 
 	for i in fout:
 
-		print  i.replace("u\"","\"").replace("u\'","\'")
+		print  i.replace("u\","\").replace("u\","\")
 	
 if __name__ == "__main__":
 	main()
