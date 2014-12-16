@@ -15,9 +15,19 @@ public class AngelListStartupJSONtoCSV {
 	private static ArrayList<String> allStartupLocations;
 	private static ArrayList<String> allStartupMarkets;
 	private static ArrayList<String> allStartupTypes;
+	private static String[] StartupFiles;
 	public static void main(String[] args) throws Exception {
+		StartupFiles = new String[6];
+		StartupFiles[0] = "1-1000";
+		StartupFiles[1] = "1001-2000";
+		StartupFiles[2] = "2001-3000";
+		StartupFiles[3] = "3001-3500";
+		StartupFiles[4] = "6001-7000";
+		StartupFiles[5] = "7001-8000";
 		setupArrays();
-		readFromFile("Startups_2001-2200");
+		for (int i=0 ; i < StartupFiles.length; i++) {
+			readFromFile("Startups_" + StartupFiles[i]);
+		}
 		
 		// Write all job listings to a .csv file in order of series
 		PrintWriter startupWriter = new PrintWriter("allStartupListings.csv", "UTF-8");
@@ -64,7 +74,6 @@ public class AngelListStartupJSONtoCSV {
     		if (!startup.getBoolean("hidden")) {
     			
 	    		name = startup.get("name") + "";
-	    		angellistUrl = startup.get("angellist_url") + "";
 	    		quality = startup.get("quality") + "";
 	    		highConcept = startup.get("high_concept") + "";
 	    		companyUrl = startup.get("company_url") + "";
@@ -73,14 +82,14 @@ public class AngelListStartupJSONtoCSV {
 	    		JSONArray market = startup.getJSONArray("markets");
 	    		for (int k = 0; k < market.length(); k++) {
 	    			JSONObject marketTag = market.getJSONObject(k);
-	    			allStartupMarkets.add(id + "," + marketTag.getString("name"));
+	    			allStartupMarkets.add("$"  + id + "," + marketTag.getString("name") + "$" );
 	    		}
 	    		
 	    		locationTags = new ArrayList<>();
 	    		JSONArray location = startup.getJSONArray("locations");
 	    		for (int k = 0; k < location.length(); k++) {
 	    			JSONObject locationTag = location.getJSONObject(k);
-	    			allStartupLocations.add(id + "," + locationTag.getString("name"));
+	    			allStartupLocations.add("$" + id + "," + locationTag.getString("name") + "$" );
 	    		}
 	    		
     			companySize = startup.get("company_size") + "";
@@ -89,13 +98,12 @@ public class AngelListStartupJSONtoCSV {
     			JSONArray type = startup.getJSONArray("company_type");
     			for (int k = 0; k < type.length(); k++) {
 	    			JSONObject companyType = type.getJSONObject(k);
-	    			allStartupTypes.add(id + "," + companyType.getString("name"));
+	    			allStartupTypes.add("$" + id + "," + companyType.getString("name") + "$" );
 	    		}
 	    		status = startup.get("status") + "";
 	    		
 	    		startupData = new StartupData(id,
-	    				name, angellistUrl, quality,
-	    				highConcept, companyUrl, companySize);
+	    				name, quality, highConcept, companyUrl, companySize);
 	    		allStartupListings.add(startupData);
 	    	}
 		} catch (JSONException e) {
@@ -114,14 +122,14 @@ public class AngelListStartupJSONtoCSV {
 	
 	private static void setupArrays() {
 		allStartupListings = new ArrayList<>();
-		allStartupListings.add(new StartupData("STARTUPID", "NAME", "ANGELLISTURL", "QUALITY", 
-				"HIGHCONCEPT", "COMPANYURL", "COMPANYSIZE"));
+		//allStartupListings.add(new StartupData("STARTUPID", "NAME", "QUALITY", 
+		//		"HIGHCONCEPT", "COMPANYURL", "COMPANYSIZE"));
 		allStartupLocations = new ArrayList<>();
-		allStartupLocations.add("STARTUPID, LOCATION");
+		//allStartupLocations.add("STARTUPID, LOCATION");
 		allStartupMarkets = new ArrayList<>();
-		allStartupMarkets.add("STARTUPID, MARKETTYPE");
+		//allStartupMarkets.add("STARTUPID, MARKETTYPE");
 		allStartupTypes = new ArrayList<>();
-		allStartupTypes.add("STARTUPID, STARTUPTYPE");
+		//allStartupTypes.add("STARTUPID, STARTUPTYPE");
 		
 	}
 }

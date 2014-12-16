@@ -1,0 +1,2896 @@
+$16,enterprise software$
+$16,cloud computing$
+$16,development platforms$
+$16,developer tools$
+$20,SaaS$
+$20,cloud computing$
+$20,security$
+$20,storage$
+$35,e-commerce$
+$35,image recognition$
+$35,personalization$
+$35,Conversion Optimization$
+$38,analytics$
+$38,location based services$
+$38,maps$
+$38,developer tools$
+$43,messaging$
+$43,photo sharing$
+$43,chat$
+$43,video chat$
+$44,productivity software$
+$44,android$
+$44,email$
+$44,browser extensions$
+$60,advertising$
+$60,social media marketing$
+$63,mobile$
+$63,sports$
+$63,fantasy sports$
+$63,mobile games$
+$95,advertising$
+$95,publishing$
+$95,broadcasting$
+$95,marijuana$
+$105,business information systems$
+$105,professional networking$
+$105,entrepreneur$
+$105,direct sales$
+$112,digital media$
+$112,entertainment$
+$112,publishing$
+$112,content creators$
+$115,internet$
+$115,music$
+$115,networking$
+$115,finance$
+$117,enterprise software$
+$117,B2B$
+$118,video$
+$118,social games$
+$118,analytics$
+$118,sports$
+$119,mobile$
+$119,SaaS$
+$119,app stores$
+$119,distribution$
+$121,advertising platforms$
+$121,browser extensions$
+$121,web browsers$
+$121,brand marketing$
+$127,social media$
+$127,professional services$
+$127,startups$
+$127,weddings$
+$130,e-commerce$
+$130,marketplaces$
+$130,hospitality$
+$130,commercial real estate$
+$134,internet tv$
+$135,mobile$
+$135,telecommunications$
+$135,voip$
+$135,web development$
+$147,social games$
+$147,facebook applications$
+$147,mobile games$
+$149,sales automation$
+$150,digital media$
+$150,big data$
+$150,social media marketing$
+$150,brand marketing$
+$154,SaaS$
+$154,CRM$
+$154,sales automation$
+$154,software$
+$160,SaaS$
+$160,enterprise software$
+$160,recruiting$
+$160,human resources$
+$166,SaaS$
+$166,energy efficiency$
+$166,big data$
+$166,clean technology it$
+$167,SaaS$
+$167,enterprise software$
+$167,mobile enterprise$
+$167,marketing automation$
+$171,mobile$
+$171,digital media$
+$171,music$
+$171,cloud based music$
+$174,recruiting$
+$174,human resources$
+$174,career management$
+$174,human resource automation$
+$179,e-commerce$
+$179,parenting$
+$179,kids$
+$179,health and wellness$
+$182,video chat$
+$185,consumer internet$
+$185,mobile$
+$185,social media$
+$185,food and beverages$
+$192,marketplaces$
+$192,social commerce$
+$194,advertising$
+$195,SaaS$
+$195,e-commerce$
+$195,direct sales$
+$198,enterprise security$
+$198,fraud detection$
+$198,it and cybersecurity$
+$198,network security$
+$203,social media$
+$203,e-commerce$
+$203,fashion$
+$203,social commerce$
+$206,small and medium businesses$
+$209,SaaS$
+$209,big data$
+$209,supply chain management$
+$209,risk management$
+$212,enterprise software$
+$212,databases$
+$212,collaboration$
+$213,advertising$
+$213,local advertising$
+$213,brand marketing$
+$213,sponsorship$
+$214,mobile$
+$214,identity management$
+$214,nfc$
+$217,energy$
+$217,defense$
+$217,energy storage$
+$217,utilities$
+$223,consumers$
+$223,automotive$
+$223,quantitative marketing$
+$223,deals$
+$227,consumer internet$
+$227,information technology$
+$227,e-commerce$
+$227,education$
+$236,e-commerce$
+$236,advertising$
+$236,image recognition$
+$236,independent music labels$
+$238,mobile advertising$
+$238,college campuses$
+$238,mobile games$
+$238,university students$
+$239,location based services$
+$239,communities$
+$239,ventures for good$
+$239,augmented reality$
+$249,e-commerce$
+$249,retail$
+$249,retail technology$
+$257,mobile$
+$257,marketplaces$
+$257,sms$
+$257,collaborative consumption$
+$263,mobile$
+$263,enterprise software$
+$263,cloud computing$
+$263,collaboration$
+$268,mobile$
+$268,social media$
+$268,location based services$
+$268,android$
+$272,e-commerce$
+$272,retail$
+$272,coupons$
+$272,deals$
+$279,marketplaces$
+$279,online reservations$
+$279,distribution$
+$279,online rental$
+$281,social media$
+$281,e-commerce$
+$281,social commerce$
+$281,curated web$
+$287,mobile$
+$287,mobile advertising$
+$287,social media platforms$
+$287,interest graph$
+$289,mobile commerce$
+$289,local$
+$289,social commerce$
+$289,restaurants$
+$292,mobile$
+$292,social media$
+$292,social games$
+$292,sports$
+$303,clean technology$
+$303,transportation$
+$303,logistics$
+$304,games$
+$304,cloud gaming$
+$304,online gaming$
+$304,pc gaming$
+$312,lead generation$
+$312,marketplaces$
+$312,online reservations$
+$312,beauty$
+$321,communities$
+$321,productivity software$
+$321,lifestyle products$
+$321,self development$
+$340,sales and marketing$
+$340,payments$
+$340,CRM$
+$340,nonprofits$
+$349,online travel$
+$349,travel$
+$351,media$
+$351,financial services$
+$351,big data$
+$351,small and medium businesses$
+$352,e-commerce$
+$352,advertising$
+$352,flash sales$
+$352,celebrity$
+$354,mobile$
+$354,location based services$
+$354,voip$
+$354,online dating$
+$355,enterprise software$
+$355,clean technology$
+$355,waste management$
+$355,recycling$
+$358,twitter applications$
+$358,social media marketing$
+$358,events$
+$358,brand marketing$
+$360,SaaS$
+$360,e-commerce$
+$360,B2B$
+$360,photo sharing$
+$362,enterprise software$
+$362,cloud computing$
+$362,big data$
+$362,databases$
+$364,finance$
+$364,small and medium businesses$
+$364,startups$
+$364,web development$
+$366,internet$
+$366,SaaS$
+$366,information technology$
+$366,B2B$
+$378,real estate$
+$378,personal finance$
+$378,big data analytics$
+$378,government innovation$
+$384,mobile$
+$384,digital media$
+$384,families$
+$384,reviews and recommendations$
+$389,mobile$
+$389,digital media$
+$389,news$
+$389,photo sharing$
+$390,social media$
+$390,marketplaces$
+$390,crowdsourcing$
+$390,legal$
+$401,mobile$
+$401,social media$
+$401,location based services$
+$401,local$
+$426,mobile$
+$426,SaaS$
+$426,collaboration$
+$426,web cms$
+$428,hardware$
+$428,semiconductors$
+$428,displays$
+$433,e-commerce$
+$433,online travel$
+$437,social games$
+$437,photo sharing$
+$437,predictive analytics$
+$440,education$
+$440,marketplaces$
+$440,human resources$
+$440,corporate training$
+$445,location based services$
+$445,deals$
+$448,digital media$
+$448,music$
+$448,analytics$
+$448,music services$
+$456,social media$
+$456,analytics$
+$456,twitter applications$
+$456,social media platforms$
+$457,SaaS$
+$457,cloud computing$
+$457,collaboration$
+$459,SaaS$
+$459,B2B$
+$459,real time$
+$459,it and cybersecurity$
+$466,social media$
+$466,maps$
+$466,sailing community$
+$469,mobile$
+$469,social media$
+$469,real time$
+$469,opinions$
+$472,mobile$
+$472,internet infrastructure$
+$472,ios$
+$472,android$
+$476,mobile$
+$476,social games$
+$476,location based services$
+$476,social media platforms$
+$480,real estate$
+$480,lead generation$
+$480,gamification$
+$480,online scheduling$
+$482,SaaS$
+$482,enterprise software$
+$482,iphone$
+$482,collaboration$
+$485,analytics$
+$485,web design$
+$485,usability$
+$485,user experience design$
+$486,SaaS$
+$486,non profit$
+$493,video$
+$496,enterprise software$
+$496,cloud computing$
+$496,apps$
+$496,web hosting$
+$498,SaaS$
+$498,enterprise software$
+$498,application platforms$
+$498,gamification$
+$499,e commerce platforms$
+$499,interior design$
+$503,digital media$
+$503,social games$
+$503,social media platforms$
+$503,social media marketing$
+$504,telecommunications$
+$504,developer apis$
+$504,development platforms$
+$504,video conferencing$
+$504,video chat$
+$504,developer tools$
+$515,ventures for good$
+$515,nonprofits$
+$515,social fundraising$
+$515,crowdfunding$
+$516,e-commerce$
+$516,marketplaces$
+$516,design$
+$516,art$
+$517,digital media$
+$517,music$
+$517,marketplaces$
+$517,advertising platforms$
+$519,B2B$
+$519,publishing$
+$519,web design$
+$523,mobile$
+$523,digital media$
+$523,sports$
+$523,local$
+$524,mobile$
+$524,advertising$
+$524,mobile advertising$
+$524,advertising platforms$
+$525,games$
+$525,social games$
+$525,education$
+$531,social media$
+$531,e-commerce$
+$531,mobile commerce$
+$531,social commerce$
+$533,e-commerce$
+$533,advertising$
+$533,loyalty programs$
+$533,cause marketing$
+$534,mobile$
+$534,advertising$
+$534,mobile advertising$
+$534,tablets$
+$537,finance$
+$537,online dating$
+$537,social search$
+$537,indians$
+$554,food and beverages$
+$554,marketplaces$
+$554,specialty foods$
+$554,organic food$
+$568,social media$
+$568,SaaS$
+$568,sales and marketing$
+$568,sales automation$
+$575,clean technology$
+$575,cloud management$
+$575,internet of things$
+$575,green building$
+$587,mobile$
+$587,real time$
+$587,wireless$
+$587,proximity internet$
+$589,enterprise software$
+$589,analytics$
+$589,big data$
+$589,oil and gas$
+$590,mobile$
+$590,location based services$
+$590,security$
+$590,mobile security$
+$592,mobile$
+$592,advertising platforms$
+$592,domains$
+$598,temporary staffing$
+$598,human resources$
+$598,staffing firms$
+$630,mobile$
+$630,education$
+$630,ios$
+$630,musical instruments$
+$631,mobile$
+$631,communities$
+$639,SaaS$
+$639,enterprise software$
+$639,marketplaces$
+$639,financial exchanges$
+$641,mobile$
+$641,digital media$
+$641,games$
+$641,us hispanic market$
+$647,mobile$
+$648,consumer internet$
+$648,mobile$
+$648,social media$
+$648,bridging online and offline$
+$651,ventures for good$
+$651,social fundraising$
+$651,online shopping$
+$652,SaaS$
+$652,enterprise software$
+$652,analytics$
+$652,cloud infrastructure$
+$654,mobile$
+$654,b2c$
+$665,mobile$
+$665,location based services$
+$665,bridging online and offline$
+$665,social crm$
+$674,crowdsourcing$
+$674,developer apis$
+$674,translation$
+$674,curated web$
+$684,business intelligence$
+$684,business analytics$
+$684,big data analytics$
+$685,location based services$
+$685,content$
+$685,travel$
+$687,digital media$
+$687,communities$
+$687,content discovery$
+$688,mobile$
+$688,entertainment$
+$688,real time$
+$688,twitter applications$
+$690,health care information technology$
+$690,startups$
+$690,health and wellness$
+$695,SaaS$
+$695,e-commerce$
+$695,mobile commerce$
+$695,marketplaces$
+$702,B2B$
+$702,payments$
+$702,facebook applications$
+$702,social commerce$
+$703,e-commerce$
+$703,local coupons$
+$703,mobile coupons$
+$703,local advertising$
+$709,payments$
+$709,mobile commerce$
+$709,retail technology$
+$711,mobile$
+$711,advertising$
+$711,social media platforms$
+$711,music services$
+$712,clean technology$
+$712,cloud computing$
+$712,big data$
+$712,ventures for good$
+$713,digital media$
+$713,social media$
+$713,video$
+$713,film$
+$720,mobile$
+$720,crowdsourcing$
+$720,small and medium businesses$
+$720,contact management$
+$751,SaaS$
+$751,enterprise software$
+$751,e-commerce$
+$751,analytics$
+$752,digital media$
+$752,publishing$
+$752,social media platforms$
+$752,big data analytics$
+$762,consumer internet$
+$762,digital media$
+$762,education$
+$762,publishing$
+$763,mobile$
+$763,mobile advertising$
+$763,mobile coupons$
+$763,social media marketing$
+$764,mobile$
+$764,advertising$
+$764,mobile advertising$
+$766,public relations$
+$773,digital media$
+$773,social media$
+$773,publishing$
+$773,social media platforms$
+$775,digital media$
+$775,B2B$
+$775,big data$
+$775,predictive analytics$
+$780,digital media$
+$780,film$
+$780,communities$
+$780,film distribution$
+$782,SaaS$
+$782,social commerce$
+$782,retail technology$
+$782,mobile payments$
+$787,advertising$
+$787,marketplaces$
+$787,optimization$
+$787,crowdsourcing$
+$789,SaaS$
+$789,enterprise software$
+$789,small and medium businesses$
+$789,it management$
+$797,pharmaceuticals$
+$797,big data$
+$797,personal health$
+$797,bridging online and offline$
+$798,education$
+$798,parenting$
+$798,events$
+$798,entrepreneur$
+$811,social games$
+$811,language learning$
+$811,mobile games$
+$811,educational games$
+$813,cloud computing$
+$813,B2B$
+$813,artificial intelligence$
+$813,crowdsourcing$
+$815,digital media$
+$815,education$
+$815,publishing$
+$815,professional networking$
+$817,photography$
+$817,android$
+$817,social travel$
+$818,curated web$
+$820,health care$
+$820,marketplaces$
+$820,health care information technology$
+$820,health and wellness$
+$822,social media$
+$822,business services$
+$822,social commerce$
+$822,reviews and recommendations$
+$824,education$
+$824,industrial automation$
+$824,finance$
+$824,reviews and recommendations$
+$826,digital media$
+$826,finance$
+$832,clean energy$
+$832,solar$
+$832,mobile payments$
+$832,finance technology$
+$836,SaaS$
+$836,B2B$
+$836,mobile enterprise$
+$836,marketing automation$
+$841,SaaS$
+$841,enterprise software$
+$841,collaboration$
+$841,productivity software$
+$847,collaboration$
+$847,unifed communications$
+$847,enterprise 2.0$
+$852,consumer internet$
+$852,internet$
+$852,textbooks$
+$852,university students$
+$855,telecommunications$
+$855,transportation$
+$856,SaaS$
+$856,enterprise software$
+$856,point of sale$
+$856,labor optimization$
+$858,social media$
+$858,small and medium businesses$
+$859,SaaS$
+$859,brand marketing$
+$859,data integration$
+$859,integrated marketing$
+$867,education$
+$867,k 12 education$
+$867,non profit$
+$873,SaaS$
+$873,sales and marketing$
+$873,business intelligence$
+$873,small and medium businesses$
+$882,mobile$
+$882,SaaS$
+$882,food and beverages$
+$882,facebook applications$
+$882,social media platforms$
+$882,application platforms$
+$882,social media marketing$
+$900,education$
+$900,marketplaces$
+$904,SaaS$
+$904,social recruiting$
+$904,recruiting$
+$907,SaaS$
+$907,application platforms$
+$907,web development$
+$907,web cms$
+$915,e-commerce$
+$915,payments$
+$915,small and medium businesses$
+$915,startups$
+$917,education$
+$917,social recruiting$
+$917,recruiting$
+$917,college recruiting$
+$919,advertising$
+$919,local advertising$
+$923,fitness$
+$923,platforms$
+$923,marketplaces$
+$923,personal health$
+$924,mobile$
+$924,social games$
+$924,facebook applications$
+$924,social media platforms$
+$925,social media$
+$925,video streaming$
+$925,video conferencing$
+$925,video chat$
+$930,social media$
+$930,games$
+$930,video streaming$
+$930,collaboration$
+$933,personal finance$
+$933,deals$
+$933,discounts$
+$933,credit cards$
+$937,business services$
+$937,contact management$
+$937,public relations$
+$942,manufacturing$
+$946,health and wellness$
+$946,diabetes$
+$946,interface design$
+$954,search$
+$954,online travel$
+$954,reviews and recommendations$
+$954,lifestyle products$
+$956,cloud computing$
+$956,information services$
+$956,intelligent systems$
+$956,personalization$
+$963,recruiting$
+$963,professional networking$
+$966,mobile$
+$966,location based services$
+$966,iphone$
+$966,maps$
+$967,curated web$
+$972,marketplaces$
+$972,design$
+$972,interior design$
+$972,architecture$
+$975,telecommunications$
+$975,big data$
+$975,maps$
+$975,sensors$
+$979,health care$
+$979,medical$
+$979,health care information technology$
+$979,doctors$
+$982,SaaS$
+$982,development platforms$
+$982,application platforms$
+$982,paas$
+$987,CRM$
+$987,human resources$
+$987,contact management$
+$987,social crm$
+$990,education$
+$993,CRM$
+$993,business productivity$
+$993,project management$
+$993,productivity software$
+$994,consumer internet$
+$994,recruiting$
+$994,human resources$
+$995,clean energy$
+$999,hardware$
+$999,semiconductors$
+$1003,social media$
+$1003,advertising$
+$1003,big data$
+$1003,Native Advertising$
+$1023,mobile$
+$1023,education$
+$1023,educational games$
+$1023,Brain Health$
+$1034,SaaS$
+$1034,enterprise resource planning$
+$1034,global$
+$1034,inventory and sales management$
+$1043,enterprise software$
+$1043,e-commerce$
+$1043,big data$
+$1045,mobile$
+$1045,social media$
+$1045,music$
+$1045,entertainment$
+$1051,usability$
+$1074,mobile$
+$1074,mobile commerce$
+$1074,online reservations$
+$1074,outdoors$
+$1077,curated web$
+$1080,consumer internet$
+$1080,social media$
+$1080,media$
+$1080,analytics$
+$1091,social media$
+$1091,CRM$
+$1091,facebook applications$
+$1091,small and medium businesses$
+$1095,education$
+$1095,business services$
+$1095,small and medium businesses$
+$1095,university students$
+$1097,SaaS$
+$1097,CRM$
+$1097,professional networking$
+$1099,mobile$
+$1099,SaaS$
+$1099,real estate$
+$1099,field support services$
+$1102,social media$
+$1102,SaaS$
+$1102,sales and marketing$
+$1102,analytics$
+$1104,e-commerce$
+$1104,marketplaces$
+$1109,social media$
+$1109,mobile commerce$
+$1109,messaging$
+$1109,retail technology$
+$1110,CRM$
+$1110,fashion$
+$1110,marketplaces$
+$1110,local$
+$1124,startups$
+$1124,venture capital$
+$1125,mobile$
+$1125,digital media$
+$1125,open source$
+$1125,social news$
+$1136,e-commerce$
+$1136,events$
+$1136,ticketing$
+$1140,internet tv$
+$1140,smart grid$
+$1140,smart building$
+$1148,education$
+$1148,personal finance$
+$1148,university students$
+$1154,medical devices$
+$1154,robotics$
+$1154,bionic software$
+$1154,ventures for good$
+$1158,information technology$
+$1158,health care information technology$
+$1158,hospitals$
+$1158,mobile health$
+$1163,cloud computing$
+$1163,big data$
+$1163,startups$
+$1163,paas$
+$1170,social media$
+$1170,SaaS$
+$1170,advertising platforms$
+$1170,technology$
+$1184,marketplaces$
+$1184,consulting$
+$1184,freelancers$
+$1202,online travel$
+$1202,marketplaces$
+$1202,social commerce$
+$1214,video$
+$1214,social games$
+$1214,video streaming$
+$1214,online video advertising$
+$1216,software$
+$1219,social media$
+$1219,social media marketing$
+$1219,curated web$
+$1221,video$
+$1221,sports$
+$1221,graphics$
+$1221,college campuses$
+$1222,energy$
+$1222,clean energy$
+$1222,energy efficiency$
+$1222,renewable energies$
+$1226,consumer internet$
+$1226,video streaming$
+$1226,video chat$
+$1232,SaaS$
+$1232,security$
+$1232,spam filtering$
+$1240,consumer internet$
+$1240,search$
+$1240,reputation$
+$1240,public relations$
+$1242,mobile$
+$1242,business productivity$
+$1242,email$
+$1242,google apps$
+$1247,consumer internet$
+$1247,mobile$
+$1247,mobile commerce$
+$1247,predictive analytics$
+$1258,e-commerce$
+$1258,industrial automation$
+$1258,mobile games$
+$1258,3d printing$
+$1269,digital media$
+$1269,social media$
+$1269,internet tv$
+$1269,digital entertainment$
+$1281,SaaS$
+$1281,enterprise software$
+$1281,recruiting$
+$1281,collaborative consumption$
+$1283,enterprise software$
+$1283,analytics$
+$1283,social commerce$
+$1283,web tools$
+$1284,consumer internet$
+$1284,social media$
+$1286,SaaS$
+$1286,enterprise software$
+$1286,business intelligence$
+$1286,small and medium businesses$
+$1289,health care$
+$1295,health and wellness$
+$1295,heathcare$
+$1296,mobile$
+$1296,internet$
+$1296,mobile advertising$
+$1296,iphone$
+$1296,android$
+$1296,world domination$
+$1298,legal$
+$1302,digital signage$
+$1302,virtual reality$
+$1305,retail technology$
+$1305,deals$
+$1306,education$
+$1306,k 12 education$
+$1306,teachers$
+$1326,education$
+$1326,recruiting$
+$1326,college recruiting$
+$1326,universities$
+$1326,career planning$
+$1328,SaaS$
+$1328,education$
+$1328,small and medium businesses$
+$1328,productivity software$
+$1342,social media$
+$1342,analytics$
+$1342,big data$
+$1353,consumer internet$
+$1353,mobile$
+$1353,social media$
+$1353,blogging platforms$
+$1355,mobile advertising$
+$1355,wireless$
+$1355,retail technology$
+$1355,bridging online and offline$
+$1360,B2B$
+$1360,mobile commerce$
+$1360,communities$
+$1360,wholesale$
+$1377,internet$
+$1377,SaaS$
+$1377,health care information technology$
+$1377,online reservations$
+$1384,analytics$
+$1384,banking$
+$1410,SaaS$
+$1410,advertising$
+$1410,sales and marketing$
+$1410,SEO$
+$1415,e-commerce$
+$1415,lead generation$
+$1415,facebook applications$
+$1415,social commerce$
+$1421,twitter applications$
+$1421,facebook applications$
+$1421,software$
+$1427,clean energy$
+$1427,wind$
+$1441,wine and spirits$
+$1441,hospitality$
+$1441,restaurants$
+$1441,travel & tourism$
+$1445,consumer internet$
+$1445,location based services$
+$1445,local$
+$1445,local advertising$
+$1447,mobile$
+$1447,social media$
+$1447,social media platforms$
+$1447,iphone$
+$1454,financial services$
+$1454,information technology$
+$1454,marketplaces$
+$1454,financial exchanges$
+$1467,comparison shopping$
+$1467,mobile commerce$
+$1467,iphone$
+$1474,mobile$
+$1474,internet$
+$1474,ios$
+$1474,outdoors$
+$1480,health care information technology$
+$1480,cloud data services$
+$1480,elder care$
+$1480,human resource automation$
+$1491,retail$
+$1491,business services$
+$1491,hospitality$
+$1491,technology$
+$1497,consumer internet$
+$1497,video$
+$1497,social media platforms$
+$1497,social television$
+$1515,consumer internet$
+$1515,SaaS$
+$1515,video$
+$1515,education$
+$1515,fitness$
+$1515,video streaming$
+$1522,real estate$
+$1526,sports$
+$1526,fitness$
+$1526,personal health$
+$1526,health and wellness$
+$1541,education$
+$1541,finance$
+$1546,enterprise software$
+$1546,social media platforms$
+$1546,professional services$
+$1547,SaaS$
+$1547,e-commerce$
+$1547,photography$
+$1547,project management$
+$1556,enterprise software$
+$1556,big data$
+$1556,sales automation$
+$1556,mobile games$
+$1561,marketplaces$
+$1561,design$
+$1561,recruiting$
+$1561,freelancers$
+$1562,analytics$
+$1562,performance marketing$
+$1562,quantitative marketing$
+$1562,social media marketing$
+$1562,brand marketing$
+$1562,predictive analytics$
+$1562,business analytics$
+$1566,SaaS$
+$1566,communities$
+$1566,creative$
+$1569,social media$
+$1569,e-commerce$
+$1569,crowdsourcing$
+$1589,enterprise software$
+$1589,B2B$
+$1589,education$
+$1595,mobile$
+$1595,peer-to-peer$
+$1595,bridging online and offline$
+$1595,chat$
+$1598,online shopping$
+$1618,SaaS$
+$1618,ventures for good$
+$1618,social fundraising$
+$1618,crowdfunding$
+$1620,financial services$
+$1620,investment management$
+$1620,personal finance$
+$1620,finance technology$
+$1624,consumer internet$
+$1624,financial services$
+$1624,startups$
+$1625,mobile$
+$1625,health care$
+$1625,health care information technology$
+$1625,heathcare$
+$1627,advertising$
+$1627,email marketing$
+$1627,chat$
+$1627,interface design$
+$1639,business services$
+$1639,fitness$
+$1639,business productivity$
+$1639,small and medium businesses$
+$1653,mobile$
+$1653,consumer electronics$
+$1653,gadget$
+$1653,hardware + software$
+$1655,social media$
+$1655,ventures for good$
+$1655,celebrity$
+$1655,Luxury$
+$1657,social media$
+$1657,video$
+$1657,video streaming$
+$1663,hardware$
+$1663,semiconductors$
+$1663,infrastructure$
+$1663,storage$
+$1664,social media$
+$1664,brand marketing$
+$1664,monetization$
+$1664,personal branding$
+$1669,social media$
+$1669,search$
+$1669,semantic search$
+$1669,natural language processing$
+$1671,social media$
+$1671,video streaming$
+$1671,video chat$
+$1673,analytics$
+$1673,health care information technology$
+$1673,project management$
+$1674,music$
+$1675,mobile$
+$1675,cloud computing$
+$1675,location based services$
+$1675,big data$
+$1684,consumer internet$
+$1684,e-commerce$
+$1684,marketplaces$
+$1684,social commerce$
+$1688,financial services$
+$1688,marketplaces$
+$1688,financial exchanges$
+$1688,real estate investors$
+$1693,social media$
+$1693,social commerce$
+$1693,bridging online and offline$
+$1693,active lifestyle$
+$1699,clean technology$
+$1699,automotive$
+$1699,green$
+$1699,electric vehicles$
+$1701,biotechnology$
+$1701,pharmaceuticals$
+$1701,software$
+$1701,predictive analytics$
+$1702,robotics$
+$1702,artificial intelligence$
+$1702,consumer electronics$
+$1708,SaaS$
+$1708,project management$
+$1708,collaboration$
+$1708,interior design$
+$1708,enterprise purchasing$
+$1713,marketplaces$
+$1713,social commerce$
+$1713,mobile coupons$
+$1713,technology$
+$1715,enterprise software$
+$1715,social recruiting$
+$1715,recruiting$
+$1715,human resources$
+$1721,SaaS$
+$1721,sales automation$
+$1721,social crm$
+$1721,lead management$
+$1745,SaaS$
+$1745,mobile commerce$
+$1745,mobile payments$
+$1746,twitter applications$
+$1750,games$
+$1750,social games$
+$1750,video games$
+$1750,communities$
+$1752,social media$
+$1752,enterprise software$
+$1752,social commerce$
+$1752,social media platforms$
+$1755,fashion$
+$1755,bridging online and offline$
+$1761,SaaS$
+$1761,enterprise software$
+$1761,marketplaces$
+$1761,social media marketing$
+$1762,search$
+$1762,browser extensions$
+$1762,personalization$
+$1766,SaaS$
+$1766,enterprise software$
+$1766,information technology$
+$1766,B2B$
+$1769,professional services$
+$1778,financial services$
+$1778,e-commerce$
+$1778,payments$
+$1783,SaaS$
+$1783,development platforms$
+$1783,developer tools$
+$1783,web development$
+$1786,social media$
+$1786,social games$
+$1786,film$
+$1786,social television$
+$1787,consumer internet$
+$1787,social media$
+$1787,personal health$
+$1787,crowdfunding$
+$1795,digital media$
+$1795,social games$
+$1795,video games$
+$1795,game mechanics$
+$1796,mobile$
+$1796,SaaS$
+$1796,ipad$
+$1796,k 12 education$
+$1806,analytics$
+$1806,mobile advertising$
+$1806,advertising platforms$
+$1806,mobile analytics$
+$1807,internet$
+$1807,SaaS$
+$1807,information technology$
+$1807,accounting$
+$1812,mobile$
+$1812,marketplaces$
+$1812,recruiting$
+$1812,human resources$
+$1815,consumer internet$
+$1821,collaboration$
+$1821,application platforms$
+$1821,video conferencing$
+$1828,social media$
+$1828,sports$
+$1828,predictive analytics$
+$1828,big data analytics$
+$1836,enterprise software$
+$1836,health care$
+$1836,health care information technology$
+$1836,mobile health$
+$1842,SaaS$
+$1842,enterprise software$
+$1842,big data$
+$1842,social crm$
+$1847,mobile$
+$1847,social media$
+$1847,communities$
+$1847,small and medium businesses$
+$1850,online travel$
+$1850,deals$
+$1850,social travel$
+$1850,travel$
+$1853,location based services$
+$1853,deals$
+$1853,mobile coupons$
+$1853,incentives$
+$1867,consumer internet$
+$1867,lead generation$
+$1867,sales and marketing$
+$1867,insurance$
+$1868,agriculture$
+$1868,oil and gas$
+$1868,waste management$
+$1869,e-commerce$
+$1869,payments$
+$1869,parenting$
+$1870,mobile$
+$1870,location based services$
+$1870,loyalty programs$
+$1870,mobile coupons$
+$1873,mobile$
+$1873,messaging$
+$1873,social media platforms$
+$1873,development platforms$
+$1881,SaaS$
+$1881,financial services$
+$1881,investment management$
+$1884,consumer internet$
+$1884,social commerce$
+$1886,enterprise software$
+$1886,business productivity$
+$1886,collaboration$
+$1886,ipad$
+$1887,energy$
+$1887,clean energy$
+$1887,energy efficiency$
+$1887,energy efficiency$
+$1888,social commerce$
+$1888,video streaming$
+$1888,lifestyle products$
+$1888,online video advertising$
+$1889,consumer internet$
+$1889,marketplaces$
+$1889,crowdsourcing$
+$1895,mobile$
+$1895,health care$
+$1895,personal health$
+$1896,advertising$
+$1896,entertainment$
+$1896,sports$
+$1897,social media$
+$1897,sales and marketing$
+$1897,marketplaces$
+$1897,crowdsourcing$
+$1926,telecommunications$
+$1926,entertainment$
+$1933,mobile commerce$
+$1933,e commerce platforms$
+$1933,retail technology$
+$1933,mobile payments$
+$1949,social media$
+$1949,enterprise software$
+$1949,real estate$
+$1949,marketplaces$
+$1953,enterprise software$
+$1953,corporate wellness$
+$1953,health and wellness$
+$1953,people$
+$1958,wind$
+$1958,defense$
+$1958,agriculture$
+$1958,oil & gas$
+$1962,B2B$
+$1962,marketplaces$
+$1963,social media$
+$1963,mobile video$
+$1963,studio$
+$1965,health care$
+$1965,consumer goods$
+$1965,manufacturing$
+$1974,messaging$
+$1974,social media platforms$
+$1974,politics$
+$1974,polling$
+$1975,mobile$
+$1975,social media$
+$1975,photography$
+$1975,photo sharing$
+$1979,mobile$
+$1979,SaaS$
+$1979,enterprise software$
+$1979,development platforms$
+$1982,social commerce$
+$1984,consumer internet$
+$1984,social media$
+$1984,video$
+$1984,social games$
+$1997,facebook applications$
+$1997,families$
+$1997,babies$
+$1999,mobile$
+$1999,social media$
+$1999,virtual currency$
+$1999,big data analytics$
+$2004,SaaS$
+$2004,social recruiting$
+$2004,recruiting$
+$2010,fashion$
+$2010,loyalty programs$
+$2010,retail technology$
+$2016,energy efficiency$
+$2016,startups$
+$2016,energy management$
+$2016,energy it$
+$2032,e-commerce$
+$2032,marketplaces$
+$2032,communities$
+$2032,design$
+$2035,deals$
+$2039,education$
+$2039,testing$
+$2045,lead generation$
+$2045,marketplaces$
+$2045,local$
+$2045,events$
+$2049,information technology$
+$2049,security$
+$2049,governments$
+$2049,green$
+$2052,e-commerce$
+$2052,fashion$
+$2052,custom retail$
+$2052,lifestyle$
+$2060,green$
+$2060,product design$
+$2060,events$
+$2061,social commerce$
+$2061,parenting$
+$2061,craigslist killers$
+$2062,SaaS$
+$2062,games$
+$2062,information technology$
+$2062,platforms$
+$2079,SaaS$
+$2079,social recruiting$
+$2079,recruiting$
+$2079,human resources$
+$2081,digital media$
+$2081,social media$
+$2081,education$
+$2081,content$
+$2088,mobile$
+$2088,mobile commerce$
+$2088,iphone$
+$2088,design$
+$2106,digital media$
+$2106,business services$
+$2106,marketplaces$
+$2106,content$
+$2118,mobile$
+$2118,internet$
+$2118,education$
+$2118,video conferencing$
+$2120,restaurants$
+$2120,e commerce platforms$
+$2120,local advertising$
+$2120,content discovery$
+$2121,social games$
+$2121,ios$
+$2121,mac$
+$2121,pc gaming$
+$2130,parenting$
+$2130,android$
+$2135,social media$
+$2135,television$
+$2135,social television$
+$2135,curated web$
+$2148,SaaS$
+$2148,cloud computing$
+$2148,mobile enterprise$
+$2150,consumer internet$
+$2150,social media$
+$2150,education$
+$2150,storage$
+$2161,social media$
+$2161,social commerce$
+$2161,online gaming$
+$2163,consumer internet$
+$2163,financial services$
+$2163,investment management$
+$2163,personal finance$
+$2164,mobile$
+$2164,search$
+$2164,android$
+$2164,mobile search$
+$2168,mobile$
+$2168,digital media$
+$2168,SaaS$
+$2168,publishing$
+$2169,mobile$
+$2169,social media$
+$2176,college campuses$
+$2176,local advertising$
+$2176,university students$
+$2176,local businesses$
+$2188,social media$
+$2188,education$
+$2188,parenting$
+$2197,online travel$
+$2197,peer-to-peer$
+$2197,marketplaces$
+$2197,collaborative consumption$
+$2198,social media$
+$2198,sports$
+$2198,fitness$
+$2198,personal health$
+$2204,mobile commerce$
+$2204,social commerce$
+$2204,reviews and recommendations$
+$2204,gift card$
+$2206,consumer internet$
+$2206,social media$
+$2206,SaaS$
+$2206,small and medium businesses$
+$2215,mobile$
+$2215,location based services$
+$2215,real time$
+$2222,consumer internet$
+$2222,web design$
+$2222,small and medium businesses$
+$2222,domains$
+$2231,food and beverages$
+$2231,outdoors$
+$2231,vending and concessions$
+$2241,games$
+$2241,gambling$
+$2244,SaaS$
+$2244,B2B$
+$2244,film$
+$2244,marketplaces$
+$2245,cloud computing$
+$2245,development platforms$
+$2245,application platforms$
+$2245,paas$
+$2246,digital media$
+$2246,social media$
+$2246,publishing$
+$2247,consumer internet$
+$2247,video streaming$
+$2247,personal health$
+$2247,health and wellness$
+$2255,fashion$
+$2255,marketplaces$
+$2255,social commerce$
+$2255,design$
+$2256,digital media$
+$2256,internet tv$
+$2256,content$
+$2258,hardware$
+$2258,games$
+$2258,software$
+$2259,SaaS$
+$2259,retail$
+$2259,beauty$
+$2259,health and wellness$
+$2260,SaaS$
+$2260,advertising$
+$2260,displays$
+$2260,3d technology$
+$2263,education$
+$2263,religion$
+$2263,college campuses$
+$2263,local commerce$
+$2275,social media$
+$2275,bridging online and offline$
+$2275,professional networking$
+$2284,south east asia$
+$2285,retail$
+$2285,manufacturing$
+$2285,wholesale$
+$2285,distribution$
+$2294,SaaS$
+$2294,small and medium businesses$
+$2294,email newsletters$
+$2294,email marketing$
+$2304,consumer internet$
+$2304,e-commerce$
+$2304,social commerce$
+$2304,e commerce platforms$
+$2305,loyalty programs$
+$2305,retail technology$
+$2305,bridging online and offline$
+$2305,deals$
+$2310,social media$
+$2310,graphics$
+$2310,photography$
+$2310,design$
+$2313,advertising$
+$2313,ad targeting$
+$2313,mobile advertising$
+$2316,social media$
+$2316,online travel$
+$2316,social media platforms$
+$2316,outdoors$
+$2321,mobile commerce$
+$2323,film$
+$2323,television$
+$2323,video on demand$
+$2323,personalization$
+$2332,e-commerce$
+$2332,online travel$
+$2332,marketplaces$
+$2332,social commerce$
+$2337,digital media$
+$2337,photography$
+$2337,photo sharing$
+$2337,content discovery$
+$2342,local services$
+$2342,construction$
+$2345,sports$
+$2346,SaaS$
+$2346,security$
+$2346,collaboration$
+$2346,application platforms$
+$2350,mobile$
+$2350,digital media$
+$2350,advertising$
+$2350,game mechanics$
+$2353,SaaS$
+$2353,enterprise software$
+$2353,project management$
+$2359,mobile$
+$2359,social games$
+$2359,ios$
+$2359,casual games$
+$2365,SaaS$
+$2365,marketplaces$
+$2365,local$
+$2365,printing$
+$2374,mobile$
+$2379,sports$
+$2379,fantasy sports$
+$2386,mobile$
+$2386,social media$
+$2386,social games$
+$2398,SaaS$
+$2398,cloud computing$
+$2398,productivity software$
+$2398,application platforms$
+$2405,mobile$
+$2405,location based services$
+$2405,mobile advertising$
+$2405,local advertising$
+$2407,mobile$
+$2407,social media$
+$2407,social network media$
+$2415,enterprise software$
+$2415,video$
+$2415,education$
+$2415,robotics$
+$2420,e-commerce$
+$2420,comparison shopping$
+$2420,flash sales$
+$2436,open source$
+$2443,e-commerce$
+$2443,marketplaces$
+$2443,reviews and recommendations$
+$2443,interest graph$
+$2445,social media$
+$2445,facebook applications$
+$2445,social media platforms$
+$2445,social media marketing$
+$2449,mobile commerce$
+$2449,mobile payments$
+$2449,mobile security$
+$2450,digital media$
+$2450,advertising$
+$2450,Digital Publishing$
+$2458,mobile$
+$2458,education$
+$2458,corporate training$
+$2469,mobile$
+$2469,SaaS$
+$2469,enterprise software$
+$2481,B2B$
+$2481,sales and marketing$
+$2481,startups$
+$2481,software$
+$2497,digital media$
+$2497,media$
+$2497,internet tv$
+$2497,cable$
+$2498,retail$
+$2498,deals$
+$2501,e-commerce$
+$2501,advertising$
+$2501,information services$
+$2501,construction$
+$2504,photography$
+$2504,productivity software$
+$2511,financial services$
+$2511,crowdsourcing$
+$2511,social media platforms$
+$2511,crowdfunding$
+$2516,collaboration$
+$2516,email$
+$2516,customer support tools$
+$2516,google apps$
+$2518,open source$
+$2518,diy$
+$2519,advertising$
+$2519,big data$
+$2519,social media marketing$
+$2519,social crm$
+$2522,networking$
+$2522,bridging online and offline$
+$2522,online dating$
+$2523,media$
+$2523,communities$
+$2523,news$
+$2523,startups$
+$2524,small and medium businesses$
+$2526,mobile$
+$2526,events$
+$2526,professional networking$
+$2539,consumer goods$
+$2539,food and beverages$
+$2547,mobile$
+$2547,telecommunications$
+$2547,marketplaces$
+$2547,wireless$
+$2558,mobile$
+$2558,SaaS$
+$2558,sales automation$
+$2558,mobile enterprise$
+$2559,SaaS$
+$2559,financial services$
+$2559,cloud computing$
+$2559,outsourcing$
+$2561,location based services$
+$2561,marketplaces$
+$2561,local$
+$2561,social commerce$
+$2563,SaaS$
+$2563,CRM$
+$2563,sales automation$
+$2568,social media$
+$2568,messaging$
+$2568,photo sharing$
+$2570,health care information technology$
+$2593,advertising$
+$2593,location based services$
+$2593,audio$
+$2593,wireless$
+$2595,video$
+$2595,project management$
+$2595,collaboration$
+$2598,security$
+$2598,internet infrastructure$
+$2598,reputation$
+$2610,digital media$
+$2610,sports$
+$2610,social media platforms$
+$2610,content discovery$
+$2628,e-commerce$
+$2634,mobile$
+$2634,digital media$
+$2634,social media$
+$2634,music$
+$2658,digital media$
+$2658,advertising$
+$2658,sales and marketing$
+$2658,publishing$
+$2662,consumer internet$
+$2662,android$
+$2662,software$
+$2662,mac applications$
+$2663,business productivity$
+$2663,online reservations$
+$2663,small and medium businesses$
+$2679,e-commerce$
+$2679,fashion$
+$2679,ventures for good$
+$2683,B2B$
+$2683,meeting software$
+$2683,collaboration$
+$2683,productivity software$
+$2699,e-commerce$
+$2704,internet$
+$2704,information technology$
+$2704,advertising$
+$2704,B2B$
+$2713,e-commerce$
+$2713,fashion$
+$2713,green$
+$2713,deals$
+$2720,advertising networks$
+$2720,location based services$
+$2720,marketplaces$
+$2720,mobile advertising$
+$2743,sports$
+$2748,web design$
+$2752,mobile$
+$2752,SaaS$
+$2752,CRM$
+$2752,sales automation$
+$2757,games$
+$2757,video games$
+$2757,development platforms$
+$2757,mobile games$
+$2758,digital media$
+$2758,music$
+$2758,entertainment$
+$2758,audio$
+$2765,finance$
+$2771,e-commerce$
+$2771,music$
+$2771,marketplaces$
+$2772,location based services$
+$2772,mobile commerce$
+$2772,mobile enterprise$
+$2772,cloud infrastructure$
+$2776,SaaS$
+$2776,video$
+$2776,B2B$
+$2776,platforms$
+$2793,information technology$
+$2793,analytics$
+$2793,search$
+$2793,deep information technology$
+$2794,mobile$
+$2794,digital media$
+$2794,social games$
+$2794,casual games$
+$3003,mobile$
+$3003,social media$
+$3003,mobile advertising$
+$3003,online dating$
+$3011,search$
+$3011,SEO$
+$3011,semantic search$
+$3011,small and medium businesses$
+$3016,medical$
+$3016,retail$
+$3016,CRM$
+$3016,collaboration$
+$3019,e-commerce$
+$3019,analytics$
+$3019,twitter applications$
+$3019,social media marketing$
+$3022,news$
+$3023,education$
+$3023,mobile commerce$
+$3023,social commerce$
+$3024,mobile$
+$3024,social media$
+$3024,music$
+$3024,audio$
+$3029,online travel$
+$3029,social commerce$
+$3032,entertainment$
+$3032,k 12 education$
+$3033,mobile$
+$3033,education$
+$3033,music$
+$3033,bridging online and offline$
+$3039,social media$
+$3039,education$
+$3039,k 12 education$
+$3039,curated web$
+$3042,social media$
+$3042,games$
+$3042,social games$
+$3042,fantasy sports$
+$3046,consumer internet$
+$3046,mobile$
+$3046,social media$
+$3046,ios$
+$3051,mobile commerce$
+$3051,local coupons$
+$3051,mobile coupons$
+$3051,local advertising$
+$3053,communities$
+$3053,local$
+$3053,social commerce$
+$3053,classifieds$
+$3054,sports$
+$3054,advertising platforms$
+$3054,email newsletters$
+$3054,local advertising$
+$3074,digital media$
+$3074,video$
+$3074,brand marketing$
+$3074,online video advertising$
+$3080,personal health$
+$3080,beauty$
+$3080,health and wellness$
+$3082,SaaS$
+$3082,enterprise software$
+$3082,big data$
+$3082,data integration$
+$3084,social commerce$
+$3084,local businesses$
+$3087,internet$
+$3087,e-commerce$
+$3087,sales and marketing$
+$3087,crowdsourcing$
+$3093,social media$
+$3093,big data$
+$3093,data mining$
+$3093,predictive analytics$
+$3099,social media$
+$3099,B2B$
+$3100,social media$
+$3100,SaaS$
+$3100,telephony$
+$3106,games$
+$3106,social games$
+$3106,video games$
+$3106,social media platforms$
+$3108,SaaS$
+$3108,e-commerce$
+$3108,fashion$
+$3108,retail technology$
+$3109,clean energy$
+$3109,solar$
+$3118,web design$
+$3121,digital media$
+$3121,consumer goods$
+$3121,photography$
+$3121,design$
+$3122,consumer internet$
+$3122,social media$
+$3122,advertising platforms$
+$3122,reviews and recommendations$
+$3129,consumer goods$
+$3129,tourism$
+$3130,mobile$
+$3130,social media$
+$3130,location based services$
+$3130,social media platforms$
+$3131,small and medium businesses$
+$3138,mobile$
+$3138,social media$
+$3138,location based services$
+$3138,travel$
+$3141,e-commerce$
+$3141,marketplaces$
+$3141,social commerce$
+$3141,small and medium businesses$
+$3142,local$
+$3142,auctions$
+$3142,deals$
+$3146,social media$
+$3146,music$
+$3146,location based services$
+$3146,events$
+$3147,financial services$
+$3147,marketplaces$
+$3147,venture capital$
+$3147,hedge funds$
+$3148,mobile$
+$3148,social media$
+$3148,mobile commerce$
+$3148,social commerce$
+$3149,mobile commerce$
+$3149,marketplaces$
+$3149,social commerce$
+$3149,deals$
+$3152,analytics$
+$3152,search$
+$3152,CRM$
+$3152,social crm$
+$3156,internet$
+$3156,music$
+$3156,entertainment$
+$3156,content$
+$3161,social media$
+$3161,health care$
+$3161,personal health$
+$3161,big data analytics$
+$3164,digital media$
+$3164,video$
+$3164,music$
+$3164,video streaming$
+$3165,SaaS$
+$3165,B2B$
+$3165,analytics$
+$3165,social media marketing$
+$3166,social media$
+$3168,location based services$
+$3168,local$
+$3168,restaurants$
+$3170,e-commerce$
+$3170,ventures for good$
+$3170,social media platforms$
+$3170,health and wellness$
+$3171,social games$
+$3171,internet tv$
+$3171,television$
+$3171,social television$
+$3185,cloud data services$
+$3186,mobile$
+$3186,SaaS$
+$3186,speech recognition$
+$3186,translation$
+$3188,education$
+$3188,tutoring$
+$3191,mobile$
+$3191,real estate$
+$3191,social media platforms$
+$3191,bridging online and offline$
+$3193,social media$
+$3193,internet$
+$3193,collaboration$
+$3194,consumer internet$
+$3194,e-commerce$
+$3194,marketplaces$
+$3194,china internet$
+$3196,social media$
+$3196,social games$
+$3196,location based services$
+$3196,business analytics$
+$3197,mobile$
+$3197,social media$
+$3197,search$
+$3197,interest graph$
+$3199,events$
+$3199,event management$
+$3199,curated web$
+$3204,mobile$
+$3204,financial services$
+$3204,personal finance$
+$3204,finance technology$
+$3206,clean technology$
+$3213,digital media$
+$3213,social media$
+$3213,writers$
+$3214,social media$
+$3225,payments$
+$3225,loyalty programs$
+$3225,personal finance$
+$3225,deals$
+$3228,mobile advertising$
+$3228,application platforms$
+$3231,health care$
+$3231,health and wellness$
+$3231,mobile health$
+$3232,analytics$
+$3232,big data$
+$3232,usability$
+$3232,chat$
+$3233,advertising$
+$3233,mobile advertising$
+$3233,advertising platforms$
+$3233,bridging online and offline$
+$3239,video games$
+$3239,mobile games$
+$3239,developer tools$
+$3243,SaaS$
+$3243,advertising$
+$3243,lead generation$
+$3243,CRM$
+$3252,nanotechnology$
+$3257,social media$
+$3257,analytics$
+$3257,publishing$
+$3257,real time$
+$3258,social media$
+$3258,advertising platforms$
+$3258,social media marketing$
+$3258,social media advertising$
+$3259,consumer internet$
+$3259,financial services$
+$3259,lead generation$
+$3259,personal finance$
+$3260,consumer internet$
+$3260,mobile$
+$3260,digital media$
+$3260,advertising$
+$3261,fantasy sports$
+$3266,SaaS$
+$3266,education$
+$3266,training$
+$3274,health care information technology$
+$3274,medication adherence$
+$3277,mobile$
+$3277,enterprise software$
+$3277,security$
+$3277,artificial intelligence$
+$3282,publishing$
+$3282,events$
+$3284,publishing$
+$3284,design$
+$3284,blogging platforms$
+$3284,content$
+$3287,mobile$
+$3288,mobile$
+$3289,SaaS$
+$3289,enterprise software$
+$3289,infrastructure$
+$3289,technology$
+$3292,online dating$
+$3295,digital media$
+$3295,social media$
+$3295,communities$
+$3295,social media platforms$
+$3296,education$
+$3296,crowdsourcing$
+$3296,bridging online and offline$
+$3306,mobile payments$
+$3309,video$
+$3309,advertising$
+$3309,advertising platforms$
+$3309,online video advertising$
+$3312,social media$
+$3312,SaaS$
+$3312,online travel$
+$3312,travel$
+$3316,restaurants$
+$3316,online dating$
+$3316,nightlife$
+$3317,social media$
+$3317,messaging$
+$3317,contact management$
+$3317,sms$
+$3318,SaaS$
+$3318,platforms$
+$3318,collaboration$
+$3318,email$
+$3319,machine learning$
+$3319,social media monitoring$
+$3319,natural language processing$
+$3319,predictive analytics$
+$3321,SaaS$
+$3321,e-commerce$
+$3321,CRM$
+$3321,photography$
+$3325,e-commerce$
+$3325,online travel$
+$3325,social travel$
+$3325,adventure travel$
+$3326,consumer goods$
+$3326,retail$
+$3326,groceries$
+$3335,social media$
+$3335,SaaS$
+$3335,music$
+$3335,application platforms$
+$3336,e-commerce$
+$3336,consumer goods$
+$3336,specialty foods$
+$3336,coffee$
+$3339,e-commerce$
+$3339,lead generation$
+$3339,social commerce$
+$3339,health and wellness$
+$3345,social games$
+$3345,music$
+$3345,facebook applications$
+$3345,mobile games$
+$3348,e-commerce$
+$3348,food and beverages$
+$3348,local$
+$3348,restaurants$
+$3363,consumer internet$
+$3363,social media$
+$3363,internet$
+$3363,advertising$
+$3368,mobile$
+$3368,mobile advertising$
+$3370,clean technology$
+$3370,aquaculture$
+$3372,SaaS$
+$3372,enterprise software$
+$3372,analytics$
+$3372,small and medium businesses$
+$3373,social commerce$
+$3373,parenting$
+$3373,kids$
+$3373,collaborative consumption$
+$3377,education$
+$3377,training$
+$3377,corporate training$
+$3377,event management$
+$3379,social media$
+$3379,facebook applications$
+$3379,social media platforms$
+$3379,social media marketing$
+$3380,SaaS$
+$3380,cloud computing$
+$3380,development platforms$
+$3380,developer tools$
+$3383,social media$
+$3383,personal data$
+$3384,B2B$
+$3389,social media$
+$3389,sales and marketing$
+$3393,business travelers$
+$3395,payments$
+$3395,personal finance$
+$3395,mobile payments$
+$3395,lifestyle$
+$3396,e-commerce$
+$3399,mobile$
+$3399,e-commerce$
+$3399,technology$
+$3399,legal$
+$3400,social commerce$
+$3400,reviews and recommendations$
+$3401,SaaS$
+$3401,analytics$
+$3401,SEO$
+$3401,marketing$
+$3403,sales and marketing$
+$3403,location based services$
+$3403,local$
+$3404,games$
+$3404,education$
+$3404,kids$
+$3404,edutainment$
+$3410,SaaS$
+$3410,small and medium businesses$
+$3410,entrepreneur$
+$3415,SaaS$
+$3415,transportation$
+$3415,software$
+$3415,logistics$
+$3417,recruiting$
+$3418,games$
+$3418,social games$
+$3418,online dating$
+$3420,social commerce$
+$3420,gift registries$
+$3420,gift exchange$
+$3422,e-commerce$
+$3422,fashion$
+$3422,art$
+$3422,licensing$
+$3423,e-commerce$
+$3423,marketplaces$
+$3423,flash sales$
+$3423,crowdfunding$
+$3433,small and medium businesses$
+$3433,personal health$
+$3433,health and wellness$
+$3433,wholesale$
+$3436,social media$
+$3436,film$
+$3436,communities$
+$3436,film production$
+$3437,education$
+$3437,eda tools$
+$3437,high tech$
+$3442,cloud computing$
+$3442,web design$
+$3442,design$
+$3442,development platforms$
+$3447,location based services$
+$3447,local coupons$
+$3447,deals$
+$3447,monetization$
+$3451,SaaS$
+$3451,e-commerce$
+$3451,postal and courier services$
+$3451,transportation$
+$3453,health care$
+$3453,fitness$
+$3453,personal health$
+$3453,rehabilitation$
+$3458,hardware$
+$3458,SaaS$
+$3458,cloud computing$
+$3458,consumer electronics$
+$3460,mobile$
+$3460,education$
+$3460,business services$
+$3460,events$
+$3463,mobile$
+$3463,qr codes$
+$3463,events$
+$3463,ticketing$
+$3464,education$
+$3464,bridging online and offline$
+$3464,polling$
+$3464,teachers$
+$3473,medical$
+$3473,iphone$
+$3473,ipad$
+$3473,mobile health$
+$3474,mobile$
+$3474,location based services$
+$3474,deep information technology$
+$3474,wireless$
+$3479,SaaS$
+$3479,enterprise software$
+$3479,real estate$
+$3479,B2B$
+$3483,consumer internet$
+$3483,search$
+$3483,crowdsourcing$
+$3483,reviews and recommendations$
+$3490,mobile$
+$3490,video$
+$3490,location based services$
+$3490,crowdsourcing$
+$3493,location based services$
+$3493,mobile advertising$
+$3493,maps$
+$3493,gps$
+$3494,mobile$
+$3494,fitness$
+$3494,personal health$
+$3494,health and wellness$
+$3496,consumer internet$
+$3496,information services$
+$3496,deep information technology$
+$6017,robotics$
+$6017,ventures for good$
+$6017,therapeutics$
+$6017,parenting$
+$6028,mobile$
+$6028,mobile commerce$
+$6028,photography$
+$6028,printing$
+$6035,mobile$
+$6035,social media$
+$6035,information technology$
+$6035,ventures for good$
+$6057,SaaS$
+$6057,project management$
+$6057,collaboration$
+$6057,legal$
+$6060,business services$
+$6060,information services$
+$6060,deals$
+$6060,mobile coupons$
+$6064,consumer internet$
+$6064,social media$
+$6064,internet$
+$6073,big data$
+$6073,ventures for good$
+$6073,finance technology$
+$6098,digital media$
+$6098,kids$
+$6098,subscription businesses$
+$6098,reading apps$
+$6105,mobile$
+$6105,e-commerce$
+$6105,retail technology$
+$6105,Fashion Tech$
+$6110,digital media$
+$6110,social media$
+$6110,media$
+$6110,social bookmarking$
+$6142,financial services$
+$6142,information technology$
+$6142,ventures for good$
+$6142,pre seed$
+$6165,SaaS$
+$6165,enterprise software$
+$6165,telecommunications$
+$6165,voip$
+$6178,SaaS$
+$6178,lead generation$
+$6178,mobile commerce$
+$6185,digital media$
+$6185,publishing$
+$6185,crowdsourcing$
+$6185,translation$
+$6189,predictive analytics$
+$6192,mobile$
+$6192,mobile commerce$
+$6192,retail technology$
+$6192,mobile coupons$
+$6208,e-commerce$
+$6208,fashion$
+$6208,retail technology$
+$6215,retail technology$
+$6215,bridging online and offline$
+$6215,data mining$
+$6215,local commerce$
+$6224,social media$
+$6224,automotive$
+$6224,social commerce$
+$6224,social network media$
+$6228,social media$
+$6228,loyalty programs$
+$6228,direct advertising$
+$6235,SaaS$
+$6235,CRM$
+$6235,politics$
+$6242,consumer internet$
+$6244,media$
+$6244,video$
+$6244,advertising$
+$6244,music$
+$6261,e-commerce$
+$6261,retail$
+$6261,fashion$
+$6261,augmented reality$
+$6279,families$
+$6279,parenting$
+$6279,private social networking$
+$6279,k 12 education$
+$6304,cloud data services$
+$6308,online travel$
+$6308,bridging online and offline$
+$6308,adventure travel$
+$6328,SaaS$
+$6328,local$
+$6328,small and medium businesses$
+$6328,bridging online and offline$
+$6336,mobile$
+$6336,security$
+$6336,android$
+$6343,hardware$
+$6343,video games$
+$6343,human computer interaction$
+$6343,content$
+$6357,consumer goods$
+$6357,retail$
+$6357,manufacturing$
+$6357,sports$
+$6382,analytics$
+$6382,food and beverages$
+$6382,ventures for good$
+$6382,health and wellness$
+$6398,automotive$
+$6398,marketplaces$
+$6398,bridging online and offline$
+$6398,disruptive models$
+$6401,sports$
+$6401,video games$
+$6401,toys$
+$6401,collectibles$
+$6418,news$
+$6418,blogging platforms$
+$6418,colleges$
+$6418,writers$
+$6422,mobile$
+$6422,enterprise software$
+$6422,developer tools$
+$6422,it management$
+$6427,mobile$
+$6427,social media$
+$6427,messaging$
+$6427,private social networking$
+$6434,digital media$
+$6434,media$
+$6434,consumer electronics$
+$6434,women-focused$
+$6442,iphone$
+$6446,analytics$
+$6446,big data$
+$6446,identity management$
+$6446,curated web$
+$6450,consumer internet$
+$6450,health care$
+$6450,medical$
+$6450,information technology$
+$6459,music$
+$6459,audio$
+$6459,technology$
+$6468,SaaS$
+$6468,B2B$
+$6468,events$
+$6468,event management$
+$6469,photography$
+$6469,musicians$
+$6469,artists globally$
+$6469,designers$
+$6482,media$
+$6482,analytics$
+$6482,platforms$
+$6482,video streaming$
+$6496,digital media$
+$6496,social media$
+$6496,pets$
+$6497,social media$
+$6497,internet$
+$6497,online dating$
+$6528,advertising$
+$6528,twitter applications$
+$6528,big data$
+$6528,interest graph$
+$6548,real estate$
+$6548,services$
+$6551,sports$
+$6565,big data$
+$6565,visualization$
+$6565,social media platforms$
+$6565,advertising platforms$
+$6568,games$
+$6568,governments$
+$6568,serious games$
+$6569,small and medium businesses$
+$6569,web development$
+$6569,designers$
+$6569,wordpress$
+$6571,design$
+$6571,ios$
+$6571,web development$
+$6577,defense$
+$6577,homeland security$
+$6577,public safety$
+$6580,social media$
+$6580,online travel$
+$6580,vacation rentals$
+$6582,digital media$
+$6582,publishing$
+$6582,audiobooks$
+$6583,social media$
+$6583,financial services$
+$6588,cloud computing$
+$6588,education$
+$6588,entrepreneur$
+$6592,analytics$
+$6592,energy efficiency$
+$6592,big data$
+$6592,green building$
+$6598,restaurants$
+$6614,mobile$
+$6614,social media$
+$6614,families$
+$6614,high school students$
+$6615,clean energy$
+$6615,energy storage$
+$6615,water$
+$6615,concentrated solar power$
+$6618,consumer internet$
+$6618,social media$
+$6618,search$
+$6618,big data$
+$6633,real estate$
+$6633,video$
+$6633,marketplaces$
+$6633,online video advertising$
+$6643,search$
+$6643,video games$
+$6643,real time$
+$6643,blogging platforms$
+$6649,SaaS$
+$6649,business productivity$
+$6649,sales automation$
+$6649,marketing automation$
+$6657,mobile$
+$6657,social media$
+$6657,photo sharing$
+$6662,local$
+$6662,iphone$
+$6662,photo sharing$
+$6662,social travel$
+$6668,families$
+$6668,parenting$
+$6677,social media$
+$6677,advertising$
+$6677,analytics$
+$6677,deals$
+$6692,retail$
+$6692,mobile commerce$
+$6692,custom retail$
+$6692,retail technology$
+$6702,startups$
+$6702,recruiting$
+$6702,venture capital$
+$6702,angel investing$
+$6703,medical devices$
+$6703,sports$
+$6703,rehabilitation$
+$6726,digital media$
+$6726,music$
+$6726,audio$
+$6726,edutainment$
+$6764,search$
+$6764,ipad$
+$6764,android$
+$6764,kids$
+$6771,health care$
+$6771,health care information technology$
+$6771,personal health$
+$6771,health and wellness$
+$6780,social games$
+$6780,analytics$
+$6780,predictive analytics$
+$6780,big data analytics$
+$6819,social games$
+$6819,education$
+$6819,sports$
+$6819,educational games$
+$6821,real estate$
+$6821,financial services$
+$6830,consumer internet$
+$6842,internet$
+$6842,platforms$
+$6842,politics$
+$6842,apps$
+$6845,SaaS$
+$6845,enterprise software$
+$6845,financial services$
+$6845,finance technology$
+$6848,consumer internet$
+$6848,real estate$
+$6848,financial services$
+$6848,information technology$
+$6849,consumer internet$
+$6849,clean technology$
+$6849,social commerce$
+$6849,bridging online and offline$
+$6878,SaaS$
+$6878,services$
+$6878,small and medium businesses$
+$6880,mobile$
+$6880,productivity software$
+$6880,email$
+$6880,private social networking$
+$6893,B2B$
+$6893,big data$
+$6893,ventures for good$
+$6893,application platforms$
+$6894,mobile commerce$
+$6894,twitter applications$
+$6894,blogging platforms$
+$6894,farmers market$
+$6903,video$
+$6903,sports$
+$6903,training$
+$6903,Social$
+$6906,location based services$
+$6906,mobile commerce$
+$6906,mobile advertising$
+$6917,mobile$
+$6917,social media$
+$6917,location based services$
+$6917,online dating$
+$6918,social media$
+$6925,social media$
+$6925,social games$
+$6925,online dating$
+$6937,digital media$
+$6937,real estate$
+$6937,online travel$
+$6937,surfing community$
+$6952,mobile$
+$6952,location based services$
+$6952,ios$
+$6952,q&a$
+$6965,transportation$
+$6965,taxis$
+$6965,public transportation$
+$6979,mobile$
+$6979,enterprise software$
+$6979,social media platforms$
+$6979,application platforms$
+$6980,consumer internet$
+$6980,SaaS$
+$6980,marketplaces$
+$6980,recruiting$
+$6981,ad targeting$
+$6981,mobile advertising$
+$6981,iphone$
+$6981,mobile games$
+$6986,music$
+$6986,small and medium businesses$
+$6989,mobile$
+$6989,social media$
+$6989,mobile advertising$
+$6989,gamification$
+$6999,food and beverages$
+$6999,organic food$
+$7010,mobile$
+$7010,food and beverages$
+$7010,reviews and recommendations$
+$7021,social media$
+$7021,video$
+$7021,music$
+$7021,artists globally$
+$7024,mobile games$
+$7037,made in italy$
+$7048,social media$
+$7072,mobile commerce$
+$7072,mobile advertising$
+$7072,mobile payments$
+$7087,online reservations$
+$7087,events$
+$7091,advertising exchanges$
+$7091,social commerce$
+$7091,social media platforms$
+$7091,advertising platforms$
+$7095,SaaS$
+$7095,intelligent systems$
+$7095,development platforms$
+$7095,internet of things$
+$7098,search$
+$7098,online travel$
+$7098,maps$
+$7098,transportation$
+$7099,weddings$
+$7099,events$
+$7100,digital media$
+$7100,social media$
+$7100,cloud computing$
+$7100,music services$
+$7126,mobile$
+$7126,storage$
+$7126,publishing$
+$7126,messaging$
+$7153,location based services$
+$7153,mobile games$
+$7160,retail$
+$7168,social media$
+$7168,crowdsourcing$
+$7168,collaboration$
+$7168,photo sharing$
+$7170,small and medium businesses$
+$7170,software$
+$7173,mobile$
+$7173,sales and marketing$
+$7173,location based services$
+$7173,online travel$
+$7179,mobile advertising$
+$7179,advertising platforms$
+$7179,ios$
+$7179,android$
+$7181,social games$
+$7181,entertainment$
+$7181,iphone$
+$7181,android$
+$7193,maps$
+$7193,social travel$
+$7193,adventure travel$
+$7193,travel & tourism$
+$7215,SaaS$
+$7215,sales and marketing$
+$7215,CRM$
+$7215,sales automation$
+$7227,advertising$
+$7227,social media marketing$
+$7227,brand marketing$
+$7227,predictive analytics$
+$7228,online travel$
+$7256,cloud computing$
+$7256,tv station$
+$7259,marketplaces$
+$7259,small and medium businesses$
+$7259,professional services$
+$7259,legal$
+$7261,enterprise security$
+$7261,wireless$
+$7261,biometrics$
+$7261,mobile security$
+$7267,communities$
+$7267,social commerce$
+$7267,families$
+$7267,parenting$
+$7269,mobile$
+$7269,social media$
+$7269,mobile commerce$
+$7269,local$
+$7273,e-commerce$
+$7273,open source$
+$7273,small and medium businesses$
+$7273,online shopping$
+$7276,biotechnology$
+$7276,hardware$
+$7276,health care$
+$7276,electronics$
+$7281,SaaS$
+$7281,publishing$
+$7281,freemium$
+$7281,technology$
+$7332,payments$
+$7332,food and beverages$
+$7332,mobile payments$
+$7332,point of sale$
+$7341,information technology$
+$7341,analytics$
+$7341,natural language processing$
+$7341,legal$
+$7342,games$
+$7342,social games$
+$7342,video games$
+$7342,casual games$
+$7350,social media$
+$7350,e-commerce$
+$7350,fashion$
+$7350,social commerce$
+$7382,education$
+$7382,search$
+$7382,semantic search$
+$7382,k 12 education$
+$7407,health care$
+$7407,medical$
+$7411,social media$
+$7411,news$
+$7411,social media platforms$
+$7411,content discovery$
+$7415,clean technology$
+$7415,consumer goods$
+$7415,retail$
+$7415,ventures for good$
+$7416,mobile$
+$7416,biometrics$
+$7433,corporate wellness$
+$7433,health and wellness$
+$7433,psychology$
+$7433,medical professionals$
+$7452,analytics$
+$7452,agriculture$
+$7452,unmanned air systems$
+$7452,drones$
+$7455,e-commerce$
+$7455,marketplaces$
+$7455,online shopping$
+$7455,collaborative consumption$
+$7474,video streaming$
+$7474,digital signage$
+$7474,digital entertainment$
+$7474,film distribution$
+$7475,general public worldwide$
+$7476,social media$
+$7476,location based services$
+$7476,marketplaces$
+$7476,communities$
+$7484,mobile$
+$7484,social media$
+$7484,communities$
+$7484,art$
+$7489,media$
+$7489,education$
+$7489,film$
+$7489,language learning$
+$7490,social media$
+$7492,SaaS$
+$7492,enterprise software$
+$7492,video$
+$7492,cloud management$
+$7510,SaaS$
+$7510,human resources$
+$7510,corporate wellness$
+$7510,enterprise 2.0$
+$7523,social media$
+$7523,information technology$
+$7523,analytics$
+$7523,big data$
+$7529,social media$
+$7529,retail$
+$7529,analytics$
+$7529,social commerce$
+$7546,internet$
+$7546,college campuses$
+$7546,startups$
+$7546,universities$
+$7547,mobile$
+$7547,enterprise software$
+$7547,productivity software$
+$7547,file sharing$
+$7578,networking$
+$7578,recruiting$
+$7578,career management$
+$7578,social network media$
+$7583,digital media$
+$7583,SaaS$
+$7583,B2B$
+$7583,mobile advertising$
+$7585,SaaS$
+$7585,enterprise software$
+$7585,information technology$
+$7585,retail technology$
+$7601,infrastructure$
+$7601,internet infrastructure$
+$7601,big data$
+$7601,big data analytics$
+$7607,business services$
+$7607,small and medium businesses$
+$7607,bridging online and offline$
+$7615,social media$
+$7615,music$
+$7615,social media marketing$
+$7615,musicians$
+$7618,social media marketing$
+$7618,rfid$
+$7618,events$
+$7618,nfc$
+$7626,e-commerce$
+$7626,online travel$
+$7626,reviews and recommendations$
+$7626,adventure travel$
+$7630,mobile$
+$7630,social media$
+$7630,online dating$
+$7645,mobile$
+$7645,location based services$
+$7645,deals$
+$7645,events$
+$7660,SaaS$
+$7660,hospitality$
+$7660,loyalty programs$
+$7660,nightlife$
+$7663,big data$
+$7663,developer apis$
+$7663,groceries$
+$7663,health and wellness$
+$7671,SaaS$
+$7671,enterprise software$
+$7671,developer tools$
+$7697,mobile$
+$7697,insurance$
+$7697,auto$
+$7697,big data analytics$
+$7711,mobile$
+$7711,productivity software$
+$7717,social media$
+$7717,collaboration$
+$7717,creative$
+$7717,ebooks$
+$7719,consumer internet$
+$7719,information technology$
+$7719,innovation engineering$
+$7719,mobile software tools$
+$7725,food and beverages$
+$7725,water$
+$7725,organic food$
+$7727,internet$
+$7727,graphics$
+$7727,crowdsourcing$
+$7727,design$
+$7735,events$
+$7735,professional networking$
+$7760,enterprise software$
+$7760,development platforms$
+$7760,social recruiting$
+$7760,recruiting$
+$7782,social activists$
+$7789,cloud computing$
+$7789,development platforms$
+$7789,developer tools$
+$7789,cloud infrastructure$
+$7806,health care$
+$7806,cloud computing$
+$7806,health care information technology$
+$7806,mobile health$
+$7817,machine learning$
+$7817,user testing$
+$7817,software$
+$7824,social media$
+$7824,SaaS$
+$7824,small and medium businesses$
+$7824,human resources$
+$7829,consumer internet$
+$7829,web design$
+$7829,startups$
+$7829,developer tools$
+$7849,social bookmarking$
+$7849,browser extensions$
+$7849,content discovery$
+$7849,social network media$
+$7877,consumer internet$
+$7877,media$
+$7877,social bookmarking$
+$7895,diagnostics$
+$7895,health care information technology$
+$7895,personal health$
+$7895,mobile health$
+$7896,web design$
+$7896,web development$
+$7896,web hosting$
+$7900,digital media$
+$7900,film$
+$7900,television$
+$7900,video on demand$
+$7901,beauty$
+$7901,health and wellness$
+$7924,e-commerce$
+$7924,food and beverages$
+$7924,wine and spirits$
+$7924,deals$
+$7925,consumer internet$
+$7925,investment management$
+$7925,reviews and recommendations$
+$7925,data mining$
