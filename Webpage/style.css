@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Helvetica;
+    src: url(HelveticaLTStd-Light.otf);
+}
+
+div.header {	
+	display: block;
+	background-image: url("banner.jpg");
+	text-align: center;
+	color: white;
+	font-family: "Helvetica";
+	font-stretch: expanded;	
+	font-weight: 200;
+}
+
+div.header div.searchBox{
+	text-align: right;
+	color:blue;
+	margin-top: -20px;
+	margin-right: 5px;
+	padding-bottom: 3px;
+};
