@@ -19,4 +19,28 @@ div.header div.searchBox{
 	margin-top: -20px;
 	margin-right: 5px;
 	padding-bottom: 3px;
-};
+}
+
+table.results {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align: left;
+    width: 100%;   
+	margin-top: 10px;
+	background-color: #FFFFFF;
+	border: 1px solid orange;
+	border-collapse: collapse;
+
+}
+
+table.results td {
+	border: 1px solid orange;
+	padding: 2px 3px 3px 2px;
+}
+
+table.results th{
+	font-size: 1.2em; 
+    padding: 3px 7px 2px 3px;
+    background-color: #FF4500;
+    color: white;
+}
+
