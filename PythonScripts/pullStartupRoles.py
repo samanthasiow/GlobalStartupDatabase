@@ -6,8 +6,8 @@ from angellist import AngelList
 def main(argv):
 
 
-	if len(sys.argv) != 3 or not argv[1].isdigit() or not argv[1].isdigit():
-		print "Usage is python pullStartupRoles.py <start ID> "
+	if len(sys.argv) != 3 or not argv[1].isdigit() or not argv[2].isdigit():
+		print "Usage is python pullStartupRoles.py <start ID> <end ID>"
 		exit()
 
 	startID = int(argv[1])
@@ -36,7 +36,8 @@ def main(argv):
 		for startupID in roles:
 			try:
 				if ( int(startupID) >= startID and int(startupID) <= endID ):
-					f.write( json.dumps(json.loads(urllib2.urlopen(ANGELLIST_ROLES_URL + startupID).read()) ))
+					result = json.dumps(json.loads(urllib2.urlopen(ANGELLIST_ROLES_URL + startupID).read())) 
+					f.write( '{"startupID":' + startupID.rstrip('\n') + ', ' + result[1:])
 					f.write('\n')
 			except Exception:
 				pass	
