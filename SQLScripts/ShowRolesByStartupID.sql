@@ -3,7 +3,7 @@ DELIMITER $$
 
 DROP PROCEDURE IF EXISTS ShowRolesByStartupID $$
 
-CREATE PROCEDURE ShowRolesByStartupID(IN startupID VARCHAR(255), IN queryBy VARCHAR(255))
+CREATE PROCEDURE ShowRolesByStartupID(IN startupID INT, IN queryBy VARCHAR(255))
 BEGIN
 	IF EXISTS (SELECT * FROM StartupListing as SL WHERE SL.id = startupID)
 		THEN 

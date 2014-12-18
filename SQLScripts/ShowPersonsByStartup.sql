@@ -2,7 +2,7 @@ DELIMITER $$
 
 DROP PROCEDURE IF EXISTS ShowPersonsByStartup $$
 
-CREATE PROCEDURE ShowPersonsByStartup(IN startupID VARCHAR(255))
+CREATE PROCEDURE ShowPersonsByStartup(IN startupID INT)
 BEGIN
 	IF EXISTS (SELECT * FROM StartupListing as SL WHERE SL.id = startupID)
 		THEN 
