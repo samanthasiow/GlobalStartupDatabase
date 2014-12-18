@@ -15,7 +15,7 @@ div.header {
 	font-family: "Helvetica";
 	font-stretch: expanded;	
 	font-weight: 200;
-	box-shadow: 5px 5px 3px #888888;
+	box-shadow: 5px 5px 3px #888888;	
 }
 
 div.header div.searchBox{
@@ -24,6 +24,7 @@ div.header div.searchBox{
 	margin-top: -20px;
 	margin-right: 5px;
 	padding-bottom: 3px;	
+	text-decoration: none;
 }
 
 div.content div {

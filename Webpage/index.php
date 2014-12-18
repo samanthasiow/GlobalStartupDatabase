@@ -6,8 +6,8 @@
 </head>
 
 <body>
-	<div class = "header">
-		
+
+	<div class = "header">	
     <h1 style = "padding-top:30px"> Final Database Project </h1>
     <h2 style = "padding-bottom:-10px">By Daniel Jalova and Samantha Siow</h2>
 
@@ -19,6 +19,7 @@
 		</div>
 
 	</div>
+
 <!--
 	<form name="myform" action="index.php" method="POST">
 		<div align="center">

@@ -8,6 +8,7 @@
 <body>
 	<div class = "header">
 		
+	<a href = "index.php"> </a>		
     <h1 style = "padding-top:30px"> Final Database Project</h1>
     <h2 style = "padding-bottom:-10px">By Daniel Jalova and Samantha Siow</h2>
 
