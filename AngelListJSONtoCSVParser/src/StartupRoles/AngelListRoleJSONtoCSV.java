@@ -28,6 +28,7 @@ public class AngelListRoleJSONtoCSV {
 		String userID, startupID, userName, userRole, roleID;
 		
 		JSONObject object = new JSONObject(startupRoles);
+		startupID = object.get("startupID") + "";
 		JSONArray roles = object.getJSONArray("startup_roles");
 		for (int i = 0; i < roles.length(); i++) {
 			JSONObject role = roles.getJSONObject(i);
@@ -36,7 +37,7 @@ public class AngelListRoleJSONtoCSV {
 			JSONObject userInfo = role.getJSONObject("user");
 			userName = userInfo.get("name") + "";
 			userID = userInfo.get("id") + "";
-			user = new StartupRole(userID, userName, userRole, roleID);
+			user = new StartupRole(userID, userName, userRole, roleID, startupID);
 			allUserRoles.add(user);
 		}
 	}

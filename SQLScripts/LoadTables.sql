@@ -46,3 +46,17 @@ LOAD DATA LOCAL INFILE '/Users/samanthasiow/Documents/Fall 2014/Databases/FinalP
 	LINES TERMINATED BY '\n';
 
 SELECT * FROM StartupTypes;
+
+DROP TABLE IF EXISTS StartupRoles;
+	CREATE TABLE StartupRoles 
+		(id INT NOT NULL PRIMARY KEY,
+		name VARCHAR(32) NOT NULL,
+		roleID INT NOT NULL,
+        role VARCHAR(32) NOT NULL,
+        startupID INT NOT NULL);
+
+LOAD DATA LOCAL INFILE '/Users/samanthasiow/Documents/Fall 2014/Databases/FinalProject/SQLScripts/AllUserRoles.csv' INTO TABLE StartupRoles
+	FIELDS TERMINATED BY ','
+	LINES TERMINATED BY '\n';
+
+SELECT * FROM StartupRoles;
