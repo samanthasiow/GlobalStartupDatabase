@@ -1,14 +1,14 @@
 DELIMITER $$
 
-DROP PROCEDURE IF EXISTS ShowStartupByID $$
+DROP PROCEDURE IF EXISTS ShowStartupIDByName $$
 
-CREATE PROCEDURE ShowStartupByID(IN startupName VARCHAR(255))
+CREATE PROCEDURE ShowStartupIDByName(IN startupName VARCHAR(255))
 BEGIN
-	IF EXISTS (SELECT * FROM StartupListing as SL WHERE SL.id = startupID)
+	IF EXISTS (SELECT * FROM StartupListing as SL WHERE SL.startupName = startupName)
 		THEN 
-			SELECT startupName as Name
+			SELECT id as id
 			FROM StartupListing as S
-			WHERE S.name = startupName;
+			WHERE S.startupName = startupName;
 	ELSE
 		SELECT 'No startups found for that ID.' AS  'Error Message';
 	END IF;

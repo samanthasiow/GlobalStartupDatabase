@@ -8,20 +8,19 @@
 <body>
 	<div class = "header">
 		
-    <h1 style = "padding-top:30px">Final Database Project</h1>
+    <h1 style = "padding-top:30px"> Final Database Project </h1>
     <h2 style = "padding-bottom:-10px">By Daniel Jalova and Samantha Siow</h2>
 
-    	<div class = "searchBox">
-			<form action="action_page.php">
+		<div class = "searchBox">
+			<form action="search.php">
 			<input type="text" name="result" value="">	
-			<input type="submit" value="Submit">
+			<input type="submit" value="Startup Search">
 			</form>
-
 		</div>
 
 	</div>
-
-<!--	<form name="myform" action="http://www.mydomain.com/myformhandler.cgi" method="POST">
+<!--
+	<form name="myform" action="index.php" method="POST">
 		<div align="center">
 			<select name="mydropdown">
 				<option value="Milk">Fresh Milk</option>
@@ -62,7 +61,7 @@
 	            echo 'MySQL Error: ' . mysql_error() . '<br/>';
 	            exit;
 	        }
-//<img src="http://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:50px;height:50px">
+
 		    while ($row = mysqli_fetch_assoc($result)) {
 	            echo '<tr>' ;
 	            echo '<td>' . '<img src=' . ' " ' .  $row['imgURL'] . ' " ' . ' style=width:50px;height:50>' . '</td>' ;
@@ -77,7 +76,5 @@
 		</table>
 	</div>
 	
-</body>     
+</body>    
 </html> 
-
-
