@@ -21,19 +21,31 @@
 
 	</div>
 
+<!--	<form name="myform" action="http://www.mydomain.com/myformhandler.cgi" method="POST">
+		<div align="center">
+			<select name="mydropdown">
+				<option value="Milk">Fresh Milk</option>
+				<option value="Cheese">Old Cheese</option>
+				<option value="Bread">Hot Bread</option>
+			</select>
+		</div>
+	</form>
+-->
 	<div id = "content">
 		<table class = "results">
 			<colgroup>
-				<col class = "SSN">
-				<col class = "LName">
-				<col class = "FName">
+				<col class = "thumbnail">
+				<col class = "Startup Name">
+				<col class = "Description">
+				<col class = "Website">
 			</colgroup>
 
 			<tr>
 
-			<th> SSN </th>
-			<th> LName </th>
-			<th> FName </th>
+			<th>  </th>
+			<th> Startup Name </th>
+			<th> Description </th>
+			<th> Company Link </th>
 
 			</tr>
 
@@ -41,7 +53,7 @@
 			include 'conf.php';
 	    	include 'open.php';
 
-	    	$sql    = 'SELECT * FROM Rawscores WHERE SSN != 0001 AND SSN != 0002 ORDER BY Section DESC, Lname ASC, Fname ASC';
+	    	$sql    = 'CALL AllStartupListings()';
 	        $result = mysqli_query($conn, $sql);
 
 	        // check if the query successfully executed
@@ -50,12 +62,13 @@
 	            echo 'MySQL Error: ' . mysql_error() . '<br/>';
 	            exit;
 	        }
-
+//<img src="http://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:50px;height:50px">
 		    while ($row = mysqli_fetch_assoc($result)) {
 	            echo '<tr>' ;
-	            echo '<td>' . '<a href=' . ' " ' . 'report.php?startupID=' . $row['SSN'] . ' " ' . '>' . $row['SSN'] . '</a>' . '</td>' ;
-	            echo '<td>' . $row['LName'] .  '</td>';
-	            echo '<td>' . $row['FName'] .  '</td>';
+	            echo '<td>' . '<img src=' . ' " ' .  $row['imgURL'] . ' " ' . ' style=width:50px;height:50>' . '</td>' ;
+	            echo '<td>' . '<a href=' . ' " ' . 'report.php?startupID=' . $row['id'] . ' " ' . '>' . $row['StartupName'] . '</a>' . '</td>' ;	           
+	            echo '<td>' . $row['HighConcept'] .  '</td>';
+	            echo '<td align = "center">' . '<a href=' . ' " ' . $row['URL'] . ' "> '  . 'Link </a>' . '</td>' ;
 	            echo '</tr>';
 			}
 
