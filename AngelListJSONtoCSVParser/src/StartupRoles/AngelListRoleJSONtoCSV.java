@@ -41,6 +41,7 @@ public class AngelListRoleJSONtoCSV {
 		}
 	}
 	
+	@SuppressWarnings("resource")
 	private static void readFromFile(String path) throws Exception {
 		FileReader fr = new FileReader(path);
 	    BufferedReader reader = new BufferedReader(fr);

@@ -34,29 +34,31 @@ public class AngelListStartupJSONtoCSV {
     // Used an open source JSON parser
     // Run with the .jar from http://mvnrepository.com/artifact/org.json/json
 	private static void parseJSONtoList(String startupObject) throws Exception {
-	    String id, name, quality, highConcept, companyUrl, companySize;
+	    String id, name, quality, highConcept, companyUrl, companySize, thumbUrl;
 		StartupListing startupData;
 
 		try {
     		JSONObject startup = new JSONObject(startupObject);
     		id = startup.get("id") + "";
+    		System.out.println(id);
     		if (!startup.getBoolean("hidden")) {
     			
 	    		name = startup.get("name") + "";
 	    		quality = startup.get("quality") + "";
 	    		highConcept = startup.get("high_concept") + "";
 	    		companyUrl = startup.get("company_url") + "";
+	    		thumbUrl = startup.get("thumb_url") + "";
 
 	    		JSONArray market = startup.getJSONArray("markets");
 	    		for (int k = 0; k < market.length(); k++) {
 	    			JSONObject marketTag = market.getJSONObject(k);
-	    			allStartupMarkets.add("$"  + id + "," + marketTag.getString("name") + "$" );
+	    			allStartupMarkets.add(id + "," + marketTag.getString("name"));
 	    		}
 	    		
 	    		JSONArray location = startup.getJSONArray("locations");
 	    		for (int k = 0; k < location.length(); k++) {
 	    			JSONObject locationTag = location.getJSONObject(k);
-	    			allStartupLocations.add("$" + id + "," + locationTag.getString("name") + "$" );
+	    			allStartupLocations.add( id + "," + locationTag.getString("name"));
 	    		}
 	    		
     			companySize = startup.get("company_size") + "";
@@ -64,11 +66,11 @@ public class AngelListStartupJSONtoCSV {
     			JSONArray type = startup.getJSONArray("company_type");
     			for (int k = 0; k < type.length(); k++) {
 	    			JSONObject companyType = type.getJSONObject(k);
-	    			allStartupTypes.add("$" + id + "," + companyType.getString("name") + "$" );
+	    			allStartupTypes.add(id + "," + companyType.getString("name"));
 	    		}
 	    		
 	    		startupData = new StartupListing(id,
-	    				name, quality, highConcept, companyUrl, companySize);
+	    				name, quality, highConcept, companyUrl, companySize, thumbUrl);
 	    		allStartupListings.add(startupData);
 	    	}
 		} catch (JSONException e) {
