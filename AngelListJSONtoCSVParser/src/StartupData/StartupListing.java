@@ -1,6 +1,7 @@
+package StartupData;
 
 
-public class StartupData {
+public class StartupListing {
 	private String id;
 	private String name;
 	private String quality;
@@ -8,7 +9,7 @@ public class StartupData {
 	private String companyUrl;
 	private String companySize;
 
-	public StartupData(String id,
+	public StartupListing(String id,
 			String name, String quality,
 			String highConcept, String companyUrl, String companySize) {
 		super();
