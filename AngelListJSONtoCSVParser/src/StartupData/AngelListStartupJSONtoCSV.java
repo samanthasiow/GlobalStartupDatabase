@@ -34,14 +34,12 @@ public class AngelListStartupJSONtoCSV {
     // Used an open source JSON parser
     // Run with the .jar from http://mvnrepository.com/artifact/org.json/json
 	private static void parseJSONtoList(String startupObject) throws Exception {
-	    String id, name, quality;
-		String highConcept, companyUrl, companySize;
+	    String id, name, quality, highConcept, companyUrl, companySize;
 		StartupListing startupData;
 
 		try {
     		JSONObject startup = new JSONObject(startupObject);
     		id = startup.get("id") + "";
-    		System.out.println(id);
     		if (!startup.getBoolean("hidden")) {
     			
 	    		name = startup.get("name") + "";
