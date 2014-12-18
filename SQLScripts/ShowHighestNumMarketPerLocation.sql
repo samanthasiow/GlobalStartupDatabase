@@ -1,9 +1,9 @@
-/* Display all people with a given role, given the startup id*/
+/* Display an ordered list of % mobile startups by location */
 DELIMITER $$
 
 DROP PROCEDURE IF EXISTS ShowHighestNumMarketPerLocation $$
 
-CREATE PROCEDURE ShowHighestNumMarketPerLocation(IN queryBy VARCHAR(255))
+CREATE PROCEDURE ShowHighestNumMarketPerLocation(IN marketType VARCHAR(255))
 BEGIN
 
 CREATE OR REPLACE VIEW NumStartupsPerLocation AS 
@@ -16,7 +16,7 @@ CREATE OR REPLACE VIEW NumStartupsPerLocation AS
 	FROM NumStartupsPerLocation as N,
 		(SELECT DISTINCT L.id, L.location, count(L.location) as numPerCity
 		FROM StartupMarkets as M, StartupListing as S, StartupLocation as L
-		WHERE M.id = S.id and S.id = L.id and M.market = queryBy
+		WHERE M.id = S.id and S.id = L.id and M.market = marketType
 		GROUP BY L.location) as M
 	WHERE M.location = N.location
     ORDER BY PercentageMobile DESC;
