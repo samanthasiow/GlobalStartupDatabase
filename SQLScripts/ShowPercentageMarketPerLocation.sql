@@ -1,9 +1,9 @@
-/* Display an ordered list of % mobile startups by location */
+/* Display an ordered list of % market startups by location */
 DELIMITER $$
 
-DROP PROCEDURE IF EXISTS ShowHighestNumMarketPerLocation $$
+DROP PROCEDURE IF EXISTS ShowPercentageMarketPerLocation $$
 
-CREATE PROCEDURE ShowHighestNumMarketPerLocation(IN marketType VARCHAR(255))
+CREATE PROCEDURE ShowPercentageMarketPerLocation(IN marketType VARCHAR(255))
 BEGIN
 
 CREATE OR REPLACE VIEW NumStartupsPerLocation AS 
