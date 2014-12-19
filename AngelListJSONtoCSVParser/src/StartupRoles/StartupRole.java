@@ -1,5 +1,5 @@
 package StartupRoles;
-
+/* Holds all the data for an individual and their role in a startup */
 public class StartupRole {
 	String role;
 	String name;;
