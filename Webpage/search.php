@@ -23,7 +23,7 @@
 	</div>
 
 	<div class = "content">
-		<div class = "profile">
+		<div>
 			<?php
 				include 'conf.php';
 			    include 'open.php';
@@ -45,8 +45,7 @@
 			            exit;
 			        }
 
-			        else {
-			        	$row = mysqli_fetch_assoc($result);	        
+			        else {        
 			        	header('Location: ' . 'report.php?startupID='.$row['id']);
 			        	die();
 			    	}	        
