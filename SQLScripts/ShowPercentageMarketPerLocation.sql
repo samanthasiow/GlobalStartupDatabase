@@ -1,4 +1,4 @@
-/* Display an ordered list of % market startups by location */
+/* Given a market type, display the % of startups of that market in all locations */
 DELIMITER $$
 
 DROP PROCEDURE IF EXISTS ShowPercentageMarketPerLocation $$
