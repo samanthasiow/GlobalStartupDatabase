@@ -27,6 +27,12 @@ div.header div.searchBox{
 	text-decoration: none;
 }
 
+div.dropDown {
+	margin-top: 10px;
+	box-shadow: 1px 1px 1px #888888;
+	background-color: #F8F8F8 ;	
+}
+
 div.content div {
 	box-shadow: 5px 5px 3px #888888;
 	background-color: #F8F8F8 ;

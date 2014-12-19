@@ -53,9 +53,13 @@
 	            exit;
 	        }
 
+	        echo 'Location: ';
+
 			while ($row = mysqli_fetch_assoc($location)) {
-					echo ' Location: ' . $row['location'] . ' <br/>';
+				echo $row['location'] . '     ';
 			}
+
+			echo '<br/>';
 
 			include 'open.php';
 			$sql3= 'CALL GetStartupMarketByID('. $id .')';
@@ -65,10 +69,13 @@
 	            exit;
 	        }
 
+	        echo 'Market: ';
+
 			while ($row = mysqli_fetch_assoc($market)) {
-					echo ' Market: ' . $row['market']. ' </p>';
+					echo $row['market']. '     ';
 			}
 			
+			echo '<br/>';
 
 		?>
 		</div>

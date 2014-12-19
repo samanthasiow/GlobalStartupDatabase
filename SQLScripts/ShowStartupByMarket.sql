@@ -7,7 +7,7 @@ CREATE PROCEDURE ShowStartupByMarket(IN marketName VARCHAR(255))
 BEGIN
 	IF EXISTS (SELECT market FROM StartupMarkets WHERE marketName = market)
 		THEN 
-			SELECT startupName as StartupName, highConcept as HighConcept, companyUrl as URL
+			SELECT S.id, startupName as StartupName, highConcept as HighConcept, companyUrl as URL, thumbUrl as imgURL
 			FROM StartupListing as S, StartupMarkets as M
             WHERE S.id = M.id and M.market = marketName;
 	ELSE

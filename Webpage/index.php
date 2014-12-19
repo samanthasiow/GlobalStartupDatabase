@@ -20,17 +20,63 @@
 
 	</div>
 
-<!--
-	<form name="myform" action="index.php" method="POST">
-		<div align="center">
-			<select name="mydropdown">
-				<option value="Milk">Fresh Milk</option>
-				<option value="Cheese">Old Cheese</option>
-				<option value="Bread">Hot Bread</option>
+
+	<div align="center" class = "dropDown">
+
+		<form name="myform" action="index.php" method="POST">
+			<select name="location">
+				<option disabled="disabled" selected="selected">Select a location.</option>				
+
+				<?php
+					include 'conf.php';
+			    	include 'open.php';
+
+			    	$sql    = 'SELECT DISTINCT location FROM StartupLocation ORDER BY location ASC';
+			        $result = mysqli_query($conn, $sql);
+
+			        // check if the query successfully executed
+			        if (!$result) {
+			            echo "DB Error, could not query the database. :-( <br/>";
+			            echo 'MySQL Error: ' . mysql_error() . '<br/>';			            
+			        }
+
+				    while ($row = mysqli_fetch_assoc($result)) {
+			            echo '<option value=' . '"' . $row[location] . '"' . '>' . $row[location] . "</option>";
+					}
+				?>
+
 			</select>
-		</div>
-	</form>
--->
+			<input type="submit" value="Filter by Location" />
+
+			<select name="market">
+				<option disabled="disabled" selected="selected">Select a market.</option>	
+				<?php
+					include 'conf.php';
+			    	include 'open.php';
+
+			    	$sql    = 'SELECT DISTINCT market FROM StartupMarkets ORDER BY market ASC';
+			        $result = mysqli_query($conn, $sql);
+
+			        // check if the query successfully executed
+			        if (!$result) {
+			            echo "DB Error, could not query the database. :-( <br/>";
+			            echo 'MySQL Error: ' . mysql_error() . '<br/>';			            
+			        }
+
+				    while ($row = mysqli_fetch_assoc($result)) {
+			            echo '<option value=' . '"' . $row['market'] . '"' . '>' . $row['market'] . "</option>";
+					}
+				?>
+
+			</select>
+			<input type="submit" value="Filter by Market" />
+
+			<input type="submit" value="Reset" />
+
+		</form>
+
+	</div>
+
 	<div id = "content">
 		<table class = "results">
 			<colgroup>
@@ -52,8 +98,19 @@
 			<?php
 			include 'conf.php';
 	    	include 'open.php';
+	
+	    	if ( isset($_POST['location']) ) {
+	    		$sql = 'CALL ShowStartupByLocation(' . '"'. $_POST['location'] . '"' .')';
+	    	}
 
-	    	$sql    = 'CALL AllStartupListings()';
+	    	else if ( isset($_POST['market']) ) {
+	    		$sql = 'CALL ShowStartupByMarket(' . '"'. $_POST['market'] . '"' .')';
+	    	}
+
+	    	else {
+	    		$sql = 'CALL AllStartupListings()';
+	    	}
+
 	        $result = mysqli_query($conn, $sql);
 
 	        // check if the query successfully executed
@@ -79,3 +136,4 @@
 	
 </body>    
 </html> 
+-
