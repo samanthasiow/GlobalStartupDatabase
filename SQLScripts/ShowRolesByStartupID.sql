@@ -11,7 +11,7 @@ BEGIN
 			FROM StartupListing as S, StartupRoles as R
 			WHERE R.startupID = S.id and S.id = startupID and R.role = queryBy;
 	ELSE
-		SELECT 'No people found for that startup.' AS  'Error Message';
+		SELECT 'No people found for that role for that startup.' AS  'Error Message';
 	END IF;
 END;
 $$

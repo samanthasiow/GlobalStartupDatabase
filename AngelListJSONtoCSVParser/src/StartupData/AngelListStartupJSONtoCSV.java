@@ -12,11 +12,11 @@ import org.json.JSONObject;
 
 
 public class AngelListStartupJSONtoCSV {
-	private static ArrayList<StartupListing> allStartupListings;
-	private static ArrayList<String> allStartupLocations;
-	private static ArrayList<String> allStartupMarkets;
-	private static ArrayList<String> allStartupTypes;
-	private static String[] StartupFiles;
+	private static ArrayList<StartupListing> allStartupListings;	// all startups
+	private static ArrayList<String> allStartupLocations;	// relation for startup to locations
+	private static ArrayList<String> allStartupMarkets;		// relation for startup to markets
+	private static ArrayList<String> allStartupTypes;		// relation for startup to types
+	private static String[] StartupFiles;		// files to read
 
 	public static void main(String[] args) throws Exception {
 		setupArrays();
@@ -33,6 +33,11 @@ public class AngelListStartupJSONtoCSV {
 	
     // Used an open source JSON parser
     // Run with the .jar from http://mvnrepository.com/artifact/org.json/json
+	/**
+	 * Parse the JSON string into a startupData object,
+	 * and add it to the appropriate list.
+	 * @param startupObject	json formatted string
+	 */
 	private static void parseJSONtoList(String startupObject) throws Exception {
 	    String id, name, quality, highConcept, companyUrl, companySize, thumbUrl;
 		StartupListing startupData;
@@ -41,6 +46,7 @@ public class AngelListStartupJSONtoCSV {
     		JSONObject startup = new JSONObject(startupObject);
     		id = startup.get("id") + "";
     		System.out.println(id);
+    		// if not hidden, get all the data
     		if (!startup.getBoolean("hidden")) {
     			
 	    		name = startup.get("name") + "";
@@ -49,12 +55,15 @@ public class AngelListStartupJSONtoCSV {
 	    		companyUrl = startup.get("company_url") + "";
 	    		thumbUrl = startup.get("thumb_url") + "";
 
+	    		// for each market type the startup is listed as,
+	    		// add to the markets list.
 	    		JSONArray market = startup.getJSONArray("markets");
 	    		for (int k = 0; k < market.length(); k++) {
 	    			JSONObject marketTag = market.getJSONObject(k);
 	    			allStartupMarkets.add(id + "," + marketTag.getString("name"));
 	    		}
-	    		
+	    		// for each location the startup is listed as,
+	    		// add to the location list.
 	    		JSONArray location = startup.getJSONArray("locations");
 	    		for (int k = 0; k < location.length(); k++) {
 	    			JSONObject locationTag = location.getJSONObject(k);
@@ -62,13 +71,15 @@ public class AngelListStartupJSONtoCSV {
 	    		}
 	    		
     			companySize = startup.get("company_size") + "";
-   
+    			// for each company type the startup is listed as,
+	    		// add to the type list.
     			JSONArray type = startup.getJSONArray("company_type");
     			for (int k = 0; k < type.length(); k++) {
 	    			JSONObject companyType = type.getJSONObject(k);
 	    			allStartupTypes.add(id + "," + companyType.getString("name"));
 	    		}
 	    		
+    			// crate a startupData object to hold all the information
 	    		startupData = new StartupListing(id,
 	    				name, quality, highConcept, companyUrl, companySize, thumbUrl);
 	    		allStartupListings.add(startupData);
@@ -78,6 +89,11 @@ public class AngelListStartupJSONtoCSV {
 		}
 	}
 	
+	/**
+	 * Read from the file and parse line by line.
+	 * @param path		path to file
+	 * @throws Exception	file not found
+	 */
 	private static void readFromFile(String path) throws Exception {
 		FileReader fr = new FileReader(path);
 	    BufferedReader reader = new BufferedReader(fr);
@@ -87,6 +103,11 @@ public class AngelListStartupJSONtoCSV {
 	    }
 	}
 	
+	/**
+	 * Print the contents of the array list into a file
+	 * @param listToPrint	the list to print
+	 * @param fileName		the name of the file to print to
+	 */
 	private static void printToFile(ArrayList listToPrint, String fileName) {
 		PrintWriter writer;
 		try {
